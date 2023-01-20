@@ -1,0 +1,6132 @@
+Plex Status as of: 2023-01-12 16:11:27.092123
+
+
+
+Total number of TV shows: 60
+Number of standard definition TV shows: 48
+Number of high definition TV shows: 12
+Total number of episodes: 3356
+
+Total number of movies: 785
+Number of standard definition movies: 294
+Number of high definition movies: 491
+
+
+
+Current drives with plex files:
+
+Name: F:
+Number of TV Shows on drive: 23
+Number of episodes on drive: 1156
+Number of movies on drive: 286
+
+Name: H:
+Number of TV Shows on drive: 37
+Number of episodes on drive: 2200
+Number of movies on drive: 499
+
+
+
+TV Shows:
+
+Name: Army Wives
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Army Wives
+Numer of seasons: 15
+Number of files: 81
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 57.66 gigabytes
+PlexShow.show_list index # = 0
+
+Name: Around the World in 80 Days (1989)
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Around the World in 80 Days (1989)
+Numer of seasons: 1
+Number of files: 3
+Dimensions of video file: 706 x 480
+Resolution of video file: SD
+Folder size of show: 3.31 gigabytes
+PlexShow.show_list index # = 1
+
+Name: Babylon 5
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Babylon 5
+Numer of seasons: 6
+Number of files: 114
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 109.92 gigabytes
+PlexShow.show_list index # = 2
+
+Name: Bat Masterson
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Bat Masterson
+Numer of seasons: 3
+Number of files: 62
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 27.33 gigabytes
+PlexShow.show_list index # = 3
+
+Name: Batman (1966)
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Batman (1966)
+Numer of seasons: 3
+Number of files: 120
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 37.71 gigabytes
+PlexShow.show_list index # = 4
+
+Name: Beef House
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Beef House
+Numer of seasons: 1
+Number of files: 6
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 1.13 gigabytes
+PlexShow.show_list index # = 5
+
+Name: Bionic Woman
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Bionic Woman
+Numer of seasons: 4
+Number of files: 64
+Dimensions of video file: 720 x 478
+Resolution of video file: SD
+Folder size of show: 59.23 gigabytes
+PlexShow.show_list index # = 6
+
+Name: Buck Rogers in the 25th Century
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Buck Rogers in the 25th Century
+Numer of seasons: 2
+Number of files: 32
+Dimensions of video file: 706 x 474
+Resolution of video file: SD
+Folder size of show: 21.12 gigabytes
+PlexShow.show_list index # = 7
+
+Name: Cannon
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Cannon
+Numer of seasons: 5
+Number of files: 123
+Dimensions of video file: 704 x 478
+Resolution of video file: SD
+Folder size of show: 64.33 gigabytes
+PlexShow.show_list index # = 8
+
+Name: Castle
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Castle
+Numer of seasons: 1
+Number of files: 24
+Dimensions of video file: 718 x 478
+Resolution of video file: SD
+Folder size of show: 12.84 gigabytes
+PlexShow.show_list index # = 9
+
+Name: Channel Zero
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Channel Zero
+Numer of seasons: 4
+Number of files: 24
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 10.13 gigabytes
+PlexShow.show_list index # = 10
+
+Name: Danger UXB
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Danger UXB
+Numer of seasons: 1
+Number of files: 13
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 6.30 gigabytes
+PlexShow.show_list index # = 11
+
+Name: Daredevil
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Daredevil
+Numer of seasons: 1
+Number of files: 13
+Dimensions of video file: 1920 x 1080
+Resolution of video file: HD
+Folder size of show: 65.07 gigabytes
+PlexShow.show_list index # = 12
+
+Name: Edge of Darkness (1985)
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Edge of Darkness (1985)
+Numer of seasons: 1
+Number of files: 6
+Dimensions of video file: 700 x 480
+Resolution of video file: SD
+Folder size of show: 4.45 gigabytes
+PlexShow.show_list index # = 13
+
+Name: Eerie, Indiana
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Eerie, Indiana
+Numer of seasons: 1
+Number of files: 19
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 10.40 gigabytes
+PlexShow.show_list index # = 14
+
+Name: Father Knows Best
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Father Knows Best
+Numer of seasons: 38
+Number of files: 208
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 105.85 gigabytes
+PlexShow.show_list index # = 15
+
+Name: Fear Itself
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Fear Itself
+Numer of seasons: 1
+Number of files: 13
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 24.24 gigabytes
+PlexShow.show_list index # = 16
+
+Name: Frasier
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Frasier
+Numer of seasons: 6
+Number of files: 142
+Dimensions of video file: 706 x 480
+Resolution of video file: SD
+Folder size of show: 55.98 gigabytes
+PlexShow.show_list index # = 17
+
+Name: Guyver
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Guyver
+Numer of seasons: 1
+Number of files: 29
+Dimensions of video file: 718 x 480
+Resolution of video file: SD
+Folder size of show: 7.49 gigabytes
+PlexShow.show_list index # = 18
+
+Name: Harsh Realm
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Harsh Realm
+Numer of seasons: 1
+Number of files: 9
+Dimensions of video file: 706 x 480
+Resolution of video file: SD
+Folder size of show: 6.84 gigabytes
+PlexShow.show_list index # = 19
+
+Name: I Dream of Jeannie
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\I Dream of Jeannie
+Numer of seasons: 5
+Number of files: 139
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 72.02 gigabytes
+PlexShow.show_list index # = 20
+
+Name: Impractical Jokers
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Impractical Jokers
+Numer of seasons: 8
+Number of files: 179
+Dimensions of video file: 720 x 478
+Resolution of video file: SD
+Folder size of show: 96.92 gigabytes
+PlexShow.show_list index # = 21
+
+Name: Jericho
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Jericho
+Numer of seasons: 2
+Number of files: 29
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 29.74 gigabytes
+PlexShow.show_list index # = 22
+
+Name: Kenan & Kel
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Kenan & Kel
+Numer of seasons: 1
+Number of files: 3
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 1.70 gigabytes
+PlexShow.show_list index # = 23
+
+Name: Law and Order (1990)
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Law and Order (1990)
+Numer of seasons: 2
+Number of files: 29
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 21.56 gigabytes
+PlexShow.show_list index # = 24
+
+Name: Little House on the Prairie
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Little House on the Prairie
+Numer of seasons: 3
+Number of files: 66
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 58.91 gigabytes
+PlexShow.show_list index # = 25
+
+Name: Little Rascals
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Little Rascals
+Numer of seasons: 10
+Number of files: 80
+Dimensions of video file: 720 x 478
+Resolution of video file: SD
+Folder size of show: 29.52 gigabytes
+PlexShow.show_list index # = 26
+
+Name: Looney Tunes
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Looney Tunes
+Numer of seasons: 32
+Number of files: 69
+Dimensions of video file: 720 x 476
+Resolution of video file: SD
+Folder size of show: 20.46 gigabytes
+PlexShow.show_list index # = 27
+
+Name: Lost in Space
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Lost in Space
+Numer of seasons: 3
+Number of files: 83
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 65.56 gigabytes
+PlexShow.show_list index # = 28
+
+Name: MXC
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\MXC
+Numer of seasons: 2
+Number of files: 26
+Dimensions of video file: 706 x 478
+Resolution of video file: SD
+Folder size of show: 15.21 gigabytes
+PlexShow.show_list index # = 29
+
+Name: Masters of the Universe (2002)
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Masters of the Universe (2002)
+Numer of seasons: 2
+Number of files: 39
+Dimensions of video file: 718 x 480
+Resolution of video file: SD
+Folder size of show: 9.70 gigabytes
+PlexShow.show_list index # = 30
+
+Name: Megaman NT Warrior
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Megaman NT Warrior
+Numer of seasons: 1
+Number of files: 52
+Dimensions of video file: 528 x 400
+Resolution of video file: SD
+Folder size of show: 11.76 gigabytes
+PlexShow.show_list index # = 31
+
+Name: Night Court
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Night Court
+Numer of seasons: 2
+Number of files: 33
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 18.78 gigabytes
+PlexShow.show_list index # = 32
+
+Name: Pearl (1978)
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Pearl (1978)
+Numer of seasons: 1
+Number of files: 3
+Dimensions of video file: 720 x 470
+Resolution of video file: SD
+Folder size of show: 4.79 gigabytes
+PlexShow.show_list index # = 33
+
+Name: Police Squad!
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Police Squad!
+Numer of seasons: 1
+Number of files: 6
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 1.61 gigabytes
+PlexShow.show_list index # = 34
+
+Name: Rose Red
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Rose Red
+Numer of seasons: 1
+Number of files: 2
+Dimensions of video file: 714 x 480
+Resolution of video file: SD
+Folder size of show: 3.83 gigabytes
+PlexShow.show_list index # = 35
+
+Name: Rosemary & Thyme
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Rosemary & Thyme
+Numer of seasons: 3
+Number of files: 23
+Dimensions of video file: 716 x 480
+Resolution of video file: SD
+Folder size of show: 18.58 gigabytes
+PlexShow.show_list index # = 36
+
+Name: Saturday Night Live
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Saturday Night Live
+Numer of seasons: 4
+Number of files: 86
+Dimensions of video file: 700 x 478
+Resolution of video file: SD
+Folder size of show: 99.79 gigabytes
+PlexShow.show_list index # = 37
+
+Name: Soap
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Soap
+Numer of seasons: 4
+Number of files: 90
+Dimensions of video file: 716 x 480
+Resolution of video file: SD
+Folder size of show: 22.13 gigabytes
+PlexShow.show_list index # = 38
+
+Name: Space Above and Beyond
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Space Above and Beyond
+Numer of seasons: 1
+Number of files: 23
+Dimensions of video file: 716 x 480
+Resolution of video file: SD
+Folder size of show: 24.89 gigabytes
+PlexShow.show_list index # = 39
+
+Name: Space Ghost Coast to Coast
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Space Ghost Coast to Coast
+Numer of seasons: 1
+Number of files: 13
+Dimensions of video file: 706 x 480
+Resolution of video file: SD
+Folder size of show: 1.54 gigabytes
+PlexShow.show_list index # = 40
+
+Name: Step by  Step
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Step by  Step
+Numer of seasons: 7
+Number of files: 160
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 87.18 gigabytes
+PlexShow.show_list index # = 41
+
+Name: Superman The Animated Series
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Superman The Animated Series
+Numer of seasons: 4
+Number of files: 54
+Dimensions of video file: 716 x 480
+Resolution of video file: SD
+Folder size of show: 16.92 gigabytes
+PlexShow.show_list index # = 42
+
+Name: Tales of The Gold Monkey
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Tales of The Gold Monkey
+Numer of seasons: 1
+Number of files: 21
+Dimensions of video file: 712 x 480
+Resolution of video file: SD
+Folder size of show: 16.05 gigabytes
+PlexShow.show_list index # = 43
+
+Name: Teenage Mutant Ninja Turtles (2003)
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Teenage Mutant Ninja Turtles (2003)
+Numer of seasons: 4
+Number of files: 78
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 40.47 gigabytes
+PlexShow.show_list index # = 44
+
+Name: The Drew Carey Show
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\The Drew Carey Show
+Numer of seasons: 1
+Number of files: 22
+Dimensions of video file: 706 x 480
+Resolution of video file: SD
+Folder size of show: 6.86 gigabytes
+PlexShow.show_list index # = 45
+
+Name: The Grim Adventures of Billy & Mandy
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\The Grim Adventures of Billy & Mandy
+Numer of seasons: 8
+Number of files: 72
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 38.27 gigabytes
+PlexShow.show_list index # = 46
+
+Name: The Last of the Summer Wine
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\The Last of the Summer Wine
+Numer of seasons: 8
+Number of files: 68
+Dimensions of video file: 698 x 480
+Resolution of video file: SD
+Folder size of show: 41.15 gigabytes
+PlexShow.show_list index # = 47
+
+Name: The Outer Limits (1995)
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\The Outer Limits (1995)
+Numer of seasons: 13
+Number of files: 154
+Dimensions of video file: 714 x 476
+Resolution of video file: SD
+Folder size of show: 98.06 gigabytes
+PlexShow.show_list index # = 48
+
+Name: The Partridge Family
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\The Partridge Family
+Numer of seasons: 4
+Number of files: 96
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 40.89 gigabytes
+PlexShow.show_list index # = 49
+
+Name: The Pretender
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\The Pretender
+Numer of seasons: 4
+Number of files: 82
+Dimensions of video file: 714 x 480
+Resolution of video file: SD
+Folder size of show: 53.30 gigabytes
+PlexShow.show_list index # = 50
+
+Name: The Three Stooges
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\The Three Stooges
+Numer of seasons: 14
+Number of files: 36
+Dimensions of video file: 704 x 480
+Resolution of video file: SD
+Folder size of show: 17.95 gigabytes
+PlexShow.show_list index # = 51
+
+Name: The Triangle
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\The Triangle
+Numer of seasons: 1
+Number of files: 3
+Dimensions of video file: 716 x 480
+Resolution of video file: SD
+Folder size of show: 2.88 gigabytes
+PlexShow.show_list index # = 52
+
+Name: The Waltons
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\The Waltons
+Numer of seasons: 3
+Number of files: 71
+Dimensions of video file: 718 x 480
+Resolution of video file: SD
+Folder size of show: 89.95 gigabytes
+PlexShow.show_list index # = 53
+
+Name: The Young Ones
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\The Young Ones
+Numer of seasons: 2
+Number of files: 12
+Dimensions of video file: 706 x 480
+Resolution of video file: SD
+Folder size of show: 8.34 gigabytes
+PlexShow.show_list index # = 54
+
+Name: Toast of London
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Toast of London
+Numer of seasons: 4
+Number of files: 19
+Dimensions of video file: 1280 x 720
+Resolution of video file: HD
+Folder size of show: 9.77 gigabytes
+PlexShow.show_list index # = 55
+
+Name: War and Remembrance
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\War and Remembrance
+Numer of seasons: 1
+Number of files: 12
+Dimensions of video file: 708 x 480
+Resolution of video file: SD
+Folder size of show: 18.98 gigabytes
+PlexShow.show_list index # = 56
+
+Name: Woody Woodpecker
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\Woody Woodpecker
+Numer of seasons: 1
+Number of files: 90
+Dimensions of video file: 720 x 480
+Resolution of video file: SD
+Folder size of show: 17.52 gigabytes
+PlexShow.show_list index # = 57
+
+Name: X-Play
+Root drive: F:
+Path of Plex files: F:\Plex\TV Shows\X-Play
+Numer of seasons: 1
+Number of files: 46
+Dimensions of video file: 640 x 360
+Resolution of video file: SD
+Folder size of show: 4.59 gigabytes
+PlexShow.show_list index # = 58
+
+Name: Zorro (1957)
+Root drive: H:
+Path of Plex files: H:\Plex\TV Shows\Zorro (1957)
+Numer of seasons: 3
+Number of files: 82
+Dimensions of video file: 712 x 480
+Resolution of video file: SD
+Folder size of show: 23.25 gigabytes
+PlexShow.show_list index # = 59
+
+
+
+
+
+Movies:
+
+Name: 10 things i hate about you.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 464.0
+Resolution of video file: SD
+Size of movie file: 2.17 gigabytes
+PlexMovie.movie_list index # = 0
+
+Name: 20 million miles to earth.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.03 gigabytes
+PlexMovie.movie_list index # = 1
+
+Name: 27 dresses.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 354.0
+Resolution of video file: SD
+Size of movie file: 1.11 gigabytes
+PlexMovie.movie_list index # = 2
+
+Name: 28 days later.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.32 gigabytes
+PlexMovie.movie_list index # = 3
+
+Name: A Bug's Life.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.42 gigabytes
+PlexMovie.movie_list index # = 4
+
+Name: A Charlie Brown Christmas.m4v
+Drive: H:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.76 gigabytes
+PlexMovie.movie_list index # = 5
+
+Name: A Christmas Carol (1951).m4v
+Drive: H:
+Dimensions of video file: 1448.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.86 gigabytes
+PlexMovie.movie_list index # = 6
+
+Name: A Nightmare on Elm Street.m4v
+Drive: H:
+Dimensions of video file: 1916.0 x 1078.0
+Resolution of video file: HD
+Size of movie file: 3.33 gigabytes
+PlexMovie.movie_list index # = 7
+
+Name: ACDC Live at Donington.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.74 gigabytes
+PlexMovie.movie_list index # = 8
+
+Name: Aladdin (1992).mp4
+Drive: F:
+Dimensions of video file: 1914.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 1.86 gigabytes
+PlexMovie.movie_list index # = 9
+
+Name: Aladdin (2019).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 4.57 gigabytes
+PlexMovie.movie_list index # = 10
+
+Name: Anchors Aweigh.m4v
+Drive: H:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 6.25 gigabytes
+PlexMovie.movie_list index # = 11
+
+Name: Arachnophobia.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.59 gigabytes
+PlexMovie.movie_list index # = 12
+
+Name: Around The World In 80 Days Disc 2 T00-1.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 390.0
+Resolution of video file: SD
+Size of movie file: 0.63 gigabytes
+PlexMovie.movie_list index # = 13
+
+Name: Around The World In 80 Days Disc 2 T01-1.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 390.0
+Resolution of video file: SD
+Size of movie file: 0.43 gigabytes
+PlexMovie.movie_list index # = 14
+
+Name: Atlantis- The Lost Empire, Atlantis- Milo's Return T18-1.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 1.93 gigabytes
+PlexMovie.movie_list index # = 15
+
+Name: Bambi.m4v
+Drive: H:
+Dimensions of video file: 1454.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.01 gigabytes
+PlexMovie.movie_list index # = 16
+
+Name: Basic (2003).mp4
+Drive: F:
+Dimensions of video file: 1280.0 x 536.0
+Resolution of video file: HD
+Size of movie file: 1.05 gigabytes
+PlexMovie.movie_list index # = 17
+
+Name: Bathing Beauty.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.81 gigabytes
+PlexMovie.movie_list index # = 18
+
+Name: Batteries Not Included.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 4.87 gigabytes
+PlexMovie.movie_list index # = 19
+
+Name: Beach Blanket Bingo.mp4
+Drive: F:
+Dimensions of video file: 712.0 x 364.0
+Resolution of video file: SD
+Size of movie file: 1.21 gigabytes
+PlexMovie.movie_list index # = 20
+
+Name: Beach Party.m4v
+Drive: F:
+Dimensions of video file: 716.0 x 360.0
+Resolution of video file: SD
+Size of movie file: 1.33 gigabytes
+PlexMovie.movie_list index # = 21
+
+Name: Bedknobs & Broomsticks.m4v
+Drive: H:
+Dimensions of video file: 1796.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 11.6 gigabytes
+PlexMovie.movie_list index # = 22
+
+Name: Best Foot Forward.mkv
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 3.04 gigabytes
+PlexMovie.movie_list index # = 23
+
+Name: Bikini Beach.mp4
+Drive: F:
+Dimensions of video file: 716.0 x 270.0
+Resolution of video file: SD
+Size of movie file: 0.92 gigabytes
+PlexMovie.movie_list index # = 24
+
+Name: Blast From The Past.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.52 gigabytes
+PlexMovie.movie_list index # = 25
+
+Name: Blazing Saddles (1974).m4v
+Drive: F:
+Dimensions of video file: 1908.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.5 gigabytes
+PlexMovie.movie_list index # = 26
+
+Name: Blue Thunder.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 5.22 gigabytes
+PlexMovie.movie_list index # = 27
+
+Name: Blues Brothers.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.26 gigabytes
+PlexMovie.movie_list index # = 28
+
+Name: Boss Level.mkv
+Drive: H:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 2.1 gigabytes
+PlexMovie.movie_list index # = 29
+
+Name: Bram Stoker's Dracula.m4v
+Drive: F:
+Dimensions of video file: 1912.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.44 gigabytes
+PlexMovie.movie_list index # = 30
+
+Name: Brave Little Toaster.mp4
+Drive: F:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.47 gigabytes
+PlexMovie.movie_list index # = 31
+
+Name: Buck Privates.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.9 gigabytes
+PlexMovie.movie_list index # = 32
+
+Name: Cabin Boy.mp4
+Drive: F:
+Dimensions of video file: 718.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.42 gigabytes
+PlexMovie.movie_list index # = 33
+
+Name: Caddyshack.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.68 gigabytes
+PlexMovie.movie_list index # = 34
+
+Name: Call Me Bwana.m4v
+Drive: H:
+Dimensions of video file: 710.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.75 gigabytes
+PlexMovie.movie_list index # = 35
+
+Name: Cape Fear (1962).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 462.0
+Resolution of video file: SD
+Size of movie file: 1.14 gigabytes
+PlexMovie.movie_list index # = 36
+
+Name: Carefree.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.65 gigabytes
+PlexMovie.movie_list index # = 37
+
+Name: Casablanca.mp4
+Drive: F:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.98 gigabytes
+PlexMovie.movie_list index # = 38
+
+Name: Casper (1995).m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 5.39 gigabytes
+PlexMovie.movie_list index # = 39
+
+Name: Casper Meets Wendy.m4v
+Drive: H:
+Dimensions of video file: 714.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.19 gigabytes
+PlexMovie.movie_list index # = 40
+
+Name: Cast A Deadly Spell.mkv
+Drive: F:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 0.99 gigabytes
+PlexMovie.movie_list index # = 41
+
+Name: Castle in the Desert.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.29 gigabytes
+PlexMovie.movie_list index # = 42
+
+Name: Cave-In.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 3.29 gigabytes
+PlexMovie.movie_list index # = 43
+
+Name: Cemetery Man (1994).m4v
+Drive: H:
+Dimensions of video file: 1804.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.11 gigabytes
+PlexMovie.movie_list index # = 44
+
+Name: Charade (1963).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 5.27 gigabytes
+PlexMovie.movie_list index # = 45
+
+Name: Charlie Chan at Monte Carlo.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.9 gigabytes
+PlexMovie.movie_list index # = 46
+
+Name: Charlie Chan at the Circus.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.3 gigabytes
+PlexMovie.movie_list index # = 47
+
+Name: Charlie Chan in City in Darkness.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.55 gigabytes
+PlexMovie.movie_list index # = 48
+
+Name: Charlie Chan in Honolulu.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.49 gigabytes
+PlexMovie.movie_list index # = 49
+
+Name: Charlie Chan in London.mp4
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.77 gigabytes
+PlexMovie.movie_list index # = 50
+
+Name: Charlie Chan in Paris.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.13 gigabytes
+PlexMovie.movie_list index # = 51
+
+Name: Charlie Chan in Shanghai.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.51 gigabytes
+PlexMovie.movie_list index # = 52
+
+Name: Charlie Chan in the black camel.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.82 gigabytes
+PlexMovie.movie_list index # = 53
+
+Name: Charlie chan's murder cruise.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.23 gigabytes
+PlexMovie.movie_list index # = 54
+
+Name: Chitty Chitty Bang Bang.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 874.0
+Resolution of video file: HD
+Size of movie file: 4.58 gigabytes
+PlexMovie.movie_list index # = 55
+
+Name: Christmas Story.m4v
+Drive: F:
+Dimensions of video file: 1908.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 6.68 gigabytes
+PlexMovie.movie_list index # = 56
+
+Name: Clash of the Titans (1981).mp4
+Drive: H:
+Dimensions of video file: 1906.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 10.58 gigabytes
+PlexMovie.movie_list index # = 57
+
+Name: Cliffhanger.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 796.0
+Resolution of video file: HD
+Size of movie file: 2.39 gigabytes
+PlexMovie.movie_list index # = 58
+
+Name: Clifford (1994).m4v
+Drive: H:
+Dimensions of video file: 720.0 x 472.0
+Resolution of video file: SD
+Size of movie file: 2.23 gigabytes
+PlexMovie.movie_list index # = 59
+
+Name: Coco.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 2.54 gigabytes
+PlexMovie.movie_list index # = 60
+
+Name: Code 8.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 356.0
+Resolution of video file: SD
+Size of movie file: 1.01 gigabytes
+PlexMovie.movie_list index # = 61
+
+Name: Conan The Destroyer T00-1.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 4.56 gigabytes
+PlexMovie.movie_list index # = 62
+
+Name: Conan the barbarian (1982).mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 4.39 gigabytes
+PlexMovie.movie_list index # = 63
+
+Name: Coogan's Bluff.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.94 gigabytes
+PlexMovie.movie_list index # = 64
+
+Name: Cube (1997).mp4
+Drive: H:
+Dimensions of video file: 1916.0 x 1054.0
+Resolution of video file: HD
+Size of movie file: 1.31 gigabytes
+PlexMovie.movie_list index # = 65
+
+Name: Dangerous Money.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.4 gigabytes
+PlexMovie.movie_list index # = 66
+
+Name: Dark Alibi.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.82 gigabytes
+PlexMovie.movie_list index # = 67
+
+Name: Dark City.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 1.55 gigabytes
+PlexMovie.movie_list index # = 68
+
+Name: Darkness Falls (2003).mkv
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 1.65 gigabytes
+PlexMovie.movie_list index # = 69
+
+Name: Dawn of the Dead (1978).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 4.99 gigabytes
+PlexMovie.movie_list index # = 70
+
+Name: Dead Men Don't Wear Plaid (1982).m4v
+Drive: F:
+Dimensions of video file: 718.0 x 342.0
+Resolution of video file: SD
+Size of movie file: 0.64 gigabytes
+PlexMovie.movie_list index # = 71
+
+Name: Dead Men Tell (1941).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.32 gigabytes
+PlexMovie.movie_list index # = 72
+
+Name: Death Race 2000.m4v
+Drive: H:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.95 gigabytes
+PlexMovie.movie_list index # = 73
+
+Name: Death Wish (2018).m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.19 gigabytes
+PlexMovie.movie_list index # = 74
+
+Name: Death Wish V.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 1.74 gigabytes
+PlexMovie.movie_list index # = 75
+
+Name: Demolition Man.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.47 gigabytes
+PlexMovie.movie_list index # = 76
+
+Name: Demon Knight.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.76 gigabytes
+PlexMovie.movie_list index # = 77
+
+Name: Destination Tokyo.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.73 gigabytes
+PlexMovie.movie_list index # = 78
+
+Name: Die Hard.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 2.56 gigabytes
+PlexMovie.movie_list index # = 79
+
+Name: Dinosaur (2000).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 1.99 gigabytes
+PlexMovie.movie_list index # = 80
+
+Name: Dirty Dancing.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.96 gigabytes
+PlexMovie.movie_list index # = 81
+
+Name: Disney's Cars.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 802.0
+Resolution of video file: HD
+Size of movie file: 3.62 gigabytes
+PlexMovie.movie_list index # = 82
+
+Name: Dodgeball.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 3.26 gigabytes
+PlexMovie.movie_list index # = 83
+
+Name: Dolls (1987).mkv
+Drive: F:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 1.84 gigabytes
+PlexMovie.movie_list index # = 84
+
+Name: Donovan's Reef.m4v
+Drive: H:
+Dimensions of video file: 710.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.79 gigabytes
+PlexMovie.movie_list index # = 85
+
+Name: Down Argentine Way.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.66 gigabytes
+PlexMovie.movie_list index # = 86
+
+Name: Drop Zone.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 3.59 gigabytes
+PlexMovie.movie_list index # = 87
+
+Name: Dumbo.m4v
+Drive: H:
+Dimensions of video file: 1436.0 x 1078.0
+Resolution of video file: HD
+Size of movie file: 1.38 gigabytes
+PlexMovie.movie_list index # = 88
+
+Name: Dunston Checks In.mp4
+Drive: F:
+Dimensions of video file: 1904.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 1.62 gigabytes
+PlexMovie.movie_list index # = 89
+
+Name: Dust Devil (1992).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1072.0
+Resolution of video file: HD
+Size of movie file: 1.76 gigabytes
+PlexMovie.movie_list index # = 90
+
+Name: ET The Extra Terrestrial.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.22 gigabytes
+PlexMovie.movie_list index # = 91
+
+Name: Easy To Wed.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 3.45 gigabytes
+PlexMovie.movie_list index # = 92
+
+Name: Edison, the Man.m4v
+Drive: H:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.8 gigabytes
+PlexMovie.movie_list index # = 93
+
+Name: El Dorado (1967).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.68 gigabytes
+PlexMovie.movie_list index # = 94
+
+Name: Elf.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.13 gigabytes
+PlexMovie.movie_list index # = 95
+
+Name: Encino Man.m4v
+Drive: F:
+Dimensions of video file: 710.0 x 376.0
+Resolution of video file: SD
+Size of movie file: 1.05 gigabytes
+PlexMovie.movie_list index # = 96
+
+Name: Enemy of the State (1998).m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 3.43 gigabytes
+PlexMovie.movie_list index # = 97
+
+Name: Epic (2013).m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.88 gigabytes
+PlexMovie.movie_list index # = 98
+
+Name: Ernest Goes To Camp.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 814.0
+Resolution of video file: HD
+Size of movie file: 2.71 gigabytes
+PlexMovie.movie_list index # = 99
+
+Name: Ernest Goes to Jail (1990).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1078.0
+Resolution of video file: HD
+Size of movie file: 3.46 gigabytes
+PlexMovie.movie_list index # = 100
+
+Name: Ernest Rides Again.m4v
+Drive: F:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.52 gigabytes
+PlexMovie.movie_list index # = 101
+
+Name: Ernest Saves Christmas.mp4
+Drive: F:
+Dimensions of video file: 710.0 x 348.0
+Resolution of video file: SD
+Size of movie file: 1.0 gigabytes
+PlexMovie.movie_list index # = 102
+
+Name: Ernest Scared Stupid.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1078.0
+Resolution of video file: HD
+Size of movie file: 3.85 gigabytes
+PlexMovie.movie_list index # = 103
+
+Name: Escape From LA.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 1.86 gigabytes
+PlexMovie.movie_list index # = 104
+
+Name: Escape From New York.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 1.2 gigabytes
+PlexMovie.movie_list index # = 105
+
+Name: European Vacation.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.6 gigabytes
+PlexMovie.movie_list index # = 106
+
+Name: Evil Dead 2013.m4v
+Drive: F:
+Dimensions of video file: 1838.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 2.93 gigabytes
+PlexMovie.movie_list index # = 107
+
+Name: Evil Dead II.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 5.53 gigabytes
+PlexMovie.movie_list index # = 108
+
+Name: Evil Dead.m4v
+Drive: F:
+Dimensions of video file: 1440.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 6.24 gigabytes
+PlexMovie.movie_list index # = 109
+
+Name: Fatal Attraction.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.95 gigabytes
+PlexMovie.movie_list index # = 110
+
+Name: Father Goose.m4v
+Drive: H:
+Dimensions of video file: 708.0 x 386.0
+Resolution of video file: SD
+Size of movie file: 2.62 gigabytes
+PlexMovie.movie_list index # = 111
+
+Name: Ferris Bueller's Day Off.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.12 gigabytes
+PlexMovie.movie_list index # = 112
+
+Name: First Blood.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 1.77 gigabytes
+PlexMovie.movie_list index # = 113
+
+Name: Fletch (1985).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.93 gigabytes
+PlexMovie.movie_list index # = 114
+
+Name: Fletch Lives (1989).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.06 gigabytes
+PlexMovie.movie_list index # = 115
+
+Name: Flood (1976).m4v
+Drive: H:
+Dimensions of video file: 708.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.79 gigabytes
+PlexMovie.movie_list index # = 116
+
+Name: Follow The Fleet.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.94 gigabytes
+PlexMovie.movie_list index # = 117
+
+Name: For Pete's Sake.m4v
+Drive: H:
+Dimensions of video file: 710.0 x 462.0
+Resolution of video file: SD
+Size of movie file: 1.47 gigabytes
+PlexMovie.movie_list index # = 118
+
+Name: Force 10 From Navarone.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 3.98 gigabytes
+PlexMovie.movie_list index # = 119
+
+Name: Forrest Gump.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 4.5 gigabytes
+PlexMovie.movie_list index # = 120
+
+Name: Fortress (1992).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.81 gigabytes
+PlexMovie.movie_list index # = 121
+
+Name: Foul Play (1978).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.34 gigabytes
+PlexMovie.movie_list index # = 122
+
+Name: Frailty.m4v
+Drive: H:
+Dimensions of video file: 712.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.18 gigabytes
+PlexMovie.movie_list index # = 123
+
+Name: Frankenweenie.m4v
+Drive: H:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.27 gigabytes
+PlexMovie.movie_list index # = 124
+
+Name: Freaked (1993).mkv
+Drive: F:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 1.67 gigabytes
+PlexMovie.movie_list index # = 125
+
+Name: Freddy Got Fingered.mp4
+Drive: F:
+Dimensions of video file: 1904.0 x 1024.0
+Resolution of video file: HD
+Size of movie file: 1.6 gigabytes
+PlexMovie.movie_list index # = 126
+
+Name: Friday the 13th.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.68 gigabytes
+PlexMovie.movie_list index # = 127
+
+Name: Frosty the Snowman.m4v
+Drive: H:
+Dimensions of video file: 1444.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.49 gigabytes
+PlexMovie.movie_list index # = 128
+
+Name: Ghost Town (1988).mkv
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.73 gigabytes
+PlexMovie.movie_list index # = 129
+
+Name: Godzilla Vs. Biollante (1989).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 3.28 gigabytes
+PlexMovie.movie_list index # = 130
+
+Name: Good Burger.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.58 gigabytes
+PlexMovie.movie_list index # = 131
+
+Name: Grandma's Boy.m4v
+Drive: H:
+Dimensions of video file: 1918.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 1.76 gigabytes
+PlexMovie.movie_list index # = 132
+
+Name: Grease.m4v
+Drive: H:
+Dimensions of video file: 1916.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 4.25 gigabytes
+PlexMovie.movie_list index # = 133
+
+Name: Gremlins.mkv
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.66 gigabytes
+PlexMovie.movie_list index # = 134
+
+Name: Groundhog Day.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.95 gigabytes
+PlexMovie.movie_list index # = 135
+
+Name: Guardians of the galaxy.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.12 gigabytes
+PlexMovie.movie_list index # = 136
+
+Name: H E Double Hockey Stikcs.mp4
+Drive: F:
+Dimensions of video file: 1080.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 2.25 gigabytes
+PlexMovie.movie_list index # = 137
+
+Name: Halloween 4.mp4
+Drive: H:
+Dimensions of video file: 1916.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 2.52 gigabytes
+PlexMovie.movie_list index # = 138
+
+Name: Halloween 5.m4v
+Drive: H:
+Dimensions of video file: 1916.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 2.78 gigabytes
+PlexMovie.movie_list index # = 139
+
+Name: Hang Em High.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 5.87 gigabytes
+PlexMovie.movie_list index # = 140
+
+Name: Happy Gilmore.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.4 gigabytes
+PlexMovie.movie_list index # = 141
+
+Name: Harry Potter And The Deathly Hallows Part 1.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.29 gigabytes
+PlexMovie.movie_list index # = 142
+
+Name: Hawk the Slayer.mp4
+Drive: H:
+Dimensions of video file: 1872.0 x 1072.0
+Resolution of video file: HD
+Size of movie file: 1.53 gigabytes
+PlexMovie.movie_list index # = 143
+
+Name: Heaven Knows Mister Alison.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 364.0
+Resolution of video file: SD
+Size of movie file: 2.04 gigabytes
+PlexMovie.movie_list index # = 144
+
+Name: Heaven's Prisoners (1996).mkv
+Drive: F:
+Dimensions of video file: 1056.0 x 592.0
+Resolution of video file: HD
+Size of movie file: 2.75 gigabytes
+PlexMovie.movie_list index # = 145
+
+Name: Herbie Goes Bananas (1980).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.2 gigabytes
+PlexMovie.movie_list index # = 146
+
+Name: Herbie Goes to Monte Carlo (1977).m4v
+Drive: F:
+Dimensions of video file: 716.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 2.19 gigabytes
+PlexMovie.movie_list index # = 147
+
+Name: Herbie Rides Again (1974).mp4
+Drive: F:
+Dimensions of video file: 708.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.31 gigabytes
+PlexMovie.movie_list index # = 148
+
+Name: Hercules (1997).mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.65 gigabytes
+PlexMovie.movie_list index # = 149
+
+Name: Hey Arnold The Jungle Movie.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.97 gigabytes
+PlexMovie.movie_list index # = 150
+
+Name: Hey Arnold The Movie.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.06 gigabytes
+PlexMovie.movie_list index # = 151
+
+Name: Hey Vern! It's My Family Album.mp4
+Drive: F:
+Dimensions of video file: 706.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.74 gigabytes
+PlexMovie.movie_list index # = 152
+
+Name: High Anxiety (1977).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 3.36 gigabytes
+PlexMovie.movie_list index # = 153
+
+Name: History Of The World Part I (1981).m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 2.64 gigabytes
+PlexMovie.movie_list index # = 154
+
+Name: Hit the ice.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.86 gigabytes
+PlexMovie.movie_list index # = 155
+
+Name: Hold that ghost.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.04 gigabytes
+PlexMovie.movie_list index # = 156
+
+Name: Hondo.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.11 gigabytes
+PlexMovie.movie_list index # = 157
+
+Name: Hot Fuzz.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 814.0
+Resolution of video file: HD
+Size of movie file: 3.72 gigabytes
+PlexMovie.movie_list index # = 158
+
+Name: Hot Rock.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 362.0
+Resolution of video file: SD
+Size of movie file: 1.0 gigabytes
+PlexMovie.movie_list index # = 159
+
+Name: Hot Shots! Part Deux.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 470.0
+Resolution of video file: SD
+Size of movie file: 1.1 gigabytes
+PlexMovie.movie_list index # = 160
+
+Name: Hot Shots!.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 470.0
+Resolution of video file: SD
+Size of movie file: 1.01 gigabytes
+PlexMovie.movie_list index # = 161
+
+Name: Hot Stuff.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 464.0
+Resolution of video file: SD
+Size of movie file: 1.59 gigabytes
+PlexMovie.movie_list index # = 162
+
+Name: Houseboat.m4v
+Drive: H:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.58 gigabytes
+PlexMovie.movie_list index # = 163
+
+Name: How the West was won.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 660.0
+Resolution of video file: HD
+Size of movie file: 3.17 gigabytes
+PlexMovie.movie_list index # = 164
+
+Name: Howard the Duck.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 5.2 gigabytes
+PlexMovie.movie_list index # = 165
+
+Name: I'll Be Home for Christmas.mkv
+Drive: H:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 2.05 gigabytes
+PlexMovie.movie_list index # = 166
+
+Name: Ice Station Zebra.mp4
+Drive: F:
+Dimensions of video file: 720.0 x 394.0
+Resolution of video file: SD
+Size of movie file: 1.38 gigabytes
+PlexMovie.movie_list index # = 167
+
+Name: In A Lonely Place.m4v
+Drive: H:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.57 gigabytes
+PlexMovie.movie_list index # = 168
+
+Name: In the Navy.m4v
+Drive: F:
+Dimensions of video file: 716.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.5 gigabytes
+PlexMovie.movie_list index # = 169
+
+Name: Incredibles 2.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 2.28 gigabytes
+PlexMovie.movie_list index # = 170
+
+Name: Independence Day (1996).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 3.47 gigabytes
+PlexMovie.movie_list index # = 171
+
+Name: International House.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.63 gigabytes
+PlexMovie.movie_list index # = 172
+
+Name: Invaders From Mars.m4v
+Drive: H:
+Dimensions of video file: 706.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.49 gigabytes
+PlexMovie.movie_list index # = 173
+
+Name: Invasion of the Saucer Men.mkv
+Drive: F:
+Dimensions of video file: 720.0 x 576.0
+Resolution of video file: HD
+Size of movie file: 1.37 gigabytes
+PlexMovie.movie_list index # = 174
+
+Name: Island of Love.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 366.0
+Resolution of video file: SD
+Size of movie file: 1.7 gigabytes
+PlexMovie.movie_list index # = 175
+
+Name: Isn't It Romantic.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 362.0
+Resolution of video file: SD
+Size of movie file: 0.62 gigabytes
+PlexMovie.movie_list index # = 176
+
+Name: It's A Gift.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.2 gigabytes
+PlexMovie.movie_list index # = 177
+
+Name: It's A Wonderful Life.m4v
+Drive: H:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 7.89 gigabytes
+PlexMovie.movie_list index # = 178
+
+Name: It's Christmastime Again Charlie Brown.m4v
+Drive: H:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 0.88 gigabytes
+PlexMovie.movie_list index # = 179
+
+Name: Its a mad mad mad mad world.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 696.0
+Resolution of video file: HD
+Size of movie file: 5.08 gigabytes
+PlexMovie.movie_list index # = 180
+
+Name: Jackie Chan's Who Am I.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 362.0
+Resolution of video file: SD
+Size of movie file: 1.84 gigabytes
+PlexMovie.movie_list index # = 181
+
+Name: James and The Giant Peach.m4v
+Drive: F:
+Dimensions of video file: 1800.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.19 gigabytes
+PlexMovie.movie_list index # = 182
+
+Name: Jaws.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 814.0
+Resolution of video file: HD
+Size of movie file: 3.43 gigabytes
+PlexMovie.movie_list index # = 183
+
+Name: Jeepers Creepers 2.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 814.0
+Resolution of video file: HD
+Size of movie file: 2.73 gigabytes
+PlexMovie.movie_list index # = 184
+
+Name: Jennifer Eight (1992).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.0 gigabytes
+PlexMovie.movie_list index # = 185
+
+Name: Jeremiah Johnson.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.01 gigabytes
+PlexMovie.movie_list index # = 186
+
+Name: Jingle all the way.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.59 gigabytes
+PlexMovie.movie_list index # = 187
+
+Name: Joe Kidd.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 4.31 gigabytes
+PlexMovie.movie_list index # = 188
+
+Name: Johnny Mnemonic.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1078.0
+Resolution of video file: HD
+Size of movie file: 2.47 gigabytes
+PlexMovie.movie_list index # = 189
+
+Name: Joy Ride.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.59 gigabytes
+PlexMovie.movie_list index # = 190
+
+Name: Jumanji the next level.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 2.61 gigabytes
+PlexMovie.movie_list index # = 191
+
+Name: Jumanji.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 3.42 gigabytes
+PlexMovie.movie_list index # = 192
+
+Name: Kelly's Heroes (1970).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 370.0
+Resolution of video file: SD
+Size of movie file: 1.77 gigabytes
+PlexMovie.movie_list index # = 193
+
+Name: King Kong (1933).m4v
+Drive: F:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.36 gigabytes
+PlexMovie.movie_list index # = 194
+
+Name: King Kong (2005).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 6.05 gigabytes
+PlexMovie.movie_list index # = 195
+
+Name: Kiss of Death (1947).mp4
+Drive: F:
+Dimensions of video file: 1424.0 x 1072.0
+Resolution of video file: HD
+Size of movie file: 1.54 gigabytes
+PlexMovie.movie_list index # = 196
+
+Name: Kung Pow Enter The Fist.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 368.0
+Resolution of video file: SD
+Size of movie file: 0.93 gigabytes
+PlexMovie.movie_list index # = 197
+
+Name: Labyrinth.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.46 gigabytes
+PlexMovie.movie_list index # = 198
+
+Name: Lady And The Tramp.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 750.0
+Resolution of video file: HD
+Size of movie file: 0.98 gigabytes
+PlexMovie.movie_list index # = 199
+
+Name: Last Night in Soho.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 3.84 gigabytes
+PlexMovie.movie_list index # = 200
+
+Name: Last of the Mohicans.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.41 gigabytes
+PlexMovie.movie_list index # = 201
+
+Name: Legend Of The Guardians- The Owls Of Ga'hoole.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.69 gigabytes
+PlexMovie.movie_list index # = 202
+
+Name: Lethal Weapon.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.46 gigabytes
+PlexMovie.movie_list index # = 203
+
+Name: Liar Liar.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.59 gigabytes
+PlexMovie.movie_list index # = 204
+
+Name: Lifeforce.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 3.48 gigabytes
+PlexMovie.movie_list index # = 205
+
+Name: Little Giants.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.25 gigabytes
+PlexMovie.movie_list index # = 206
+
+Name: Little Monsters.m4v
+Drive: H:
+Dimensions of video file: 1916.0 x 1064.0
+Resolution of video file: HD
+Size of movie file: 4.94 gigabytes
+PlexMovie.movie_list index # = 207
+
+Name: Little Nicky.mp4
+Drive: F:
+Dimensions of video file: 1904.0 x 1024.0
+Resolution of video file: HD
+Size of movie file: 1.44 gigabytes
+PlexMovie.movie_list index # = 208
+
+Name: Little Women (1994).mkv
+Drive: H:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 2.81 gigabytes
+PlexMovie.movie_list index # = 209
+
+Name: Look Who's Laughing.mp4
+Drive: H:
+Dimensions of video file: 708.0 x 476.0
+Resolution of video file: SD
+Size of movie file: 1.49 gigabytes
+PlexMovie.movie_list index # = 210
+
+Name: Looney Tunes Back in Action.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 798.0
+Resolution of video file: HD
+Size of movie file: 2.35 gigabytes
+PlexMovie.movie_list index # = 211
+
+Name: Lord of Illusions.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 5.64 gigabytes
+PlexMovie.movie_list index # = 212
+
+Name: Lord of the Rings (1978).mp4
+Drive: H:
+Dimensions of video file: 1904.0 x 1072.0
+Resolution of video file: HD
+Size of movie file: 2.02 gigabytes
+PlexMovie.movie_list index # = 213
+
+Name: Lost in Space (1998).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.9 gigabytes
+PlexMovie.movie_list index # = 214
+
+Name: Louisianna Purchase.m4v
+Drive: H:
+Dimensions of video file: 712.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.34 gigabytes
+PlexMovie.movie_list index # = 215
+
+Name: Mad Max Beyond Thunderdome.m4v
+Drive: H:
+Dimensions of video file: 1908.0 x 796.0
+Resolution of video file: HD
+Size of movie file: 8.47 gigabytes
+PlexMovie.movie_list index # = 216
+
+Name: Mad Max.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 2.66 gigabytes
+PlexMovie.movie_list index # = 217
+
+Name: Major Payne.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 4.81 gigabytes
+PlexMovie.movie_list index # = 218
+
+Name: Mars Attacks.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 796.0
+Resolution of video file: HD
+Size of movie file: 1.82 gigabytes
+PlexMovie.movie_list index # = 219
+
+Name: Marvel's Guardians Of The Galaxy Vol. 2.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 4.94 gigabytes
+PlexMovie.movie_list index # = 220
+
+Name: Masterminds (2016).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.23 gigabytes
+PlexMovie.movie_list index # = 221
+
+Name: Meet The Robinsons.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.46 gigabytes
+PlexMovie.movie_list index # = 222
+
+Name: Megamind.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.71 gigabytes
+PlexMovie.movie_list index # = 223
+
+Name: Men In Black 3.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.24 gigabytes
+PlexMovie.movie_list index # = 224
+
+Name: Men In Black II.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.13 gigabytes
+PlexMovie.movie_list index # = 225
+
+Name: Men In Black.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.5 gigabytes
+PlexMovie.movie_list index # = 226
+
+Name: Mexican hayride.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.07 gigabytes
+PlexMovie.movie_list index # = 227
+
+Name: Million Dollar Mermaid.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.56 gigabytes
+PlexMovie.movie_list index # = 228
+
+Name: Miracle on 34th Street (1947).m4v
+Drive: H:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.96 gigabytes
+PlexMovie.movie_list index # = 229
+
+Name: Mission Impossible (1996).m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 796.0
+Resolution of video file: HD
+Size of movie file: 2.63 gigabytes
+PlexMovie.movie_list index # = 230
+
+Name: Mission Impossible 3.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 4.57 gigabytes
+PlexMovie.movie_list index # = 231
+
+Name: Mission Impossible Ghost Protocol.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.36 gigabytes
+PlexMovie.movie_list index # = 232
+
+Name: Mission Impossible II.m4v
+Drive: F:
+Dimensions of video file: 1912.0 x 794.0
+Resolution of video file: HD
+Size of movie file: 3.87 gigabytes
+PlexMovie.movie_list index # = 233
+
+Name: Mission Impossible Rogue Nation.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 2.93 gigabytes
+PlexMovie.movie_list index # = 234
+
+Name: Mom's Got A Date With A Vampire.m4v
+Drive: F:
+Dimensions of video file: 960.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 1.24 gigabytes
+PlexMovie.movie_list index # = 235
+
+Name: Monkeybone.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.7 gigabytes
+PlexMovie.movie_list index # = 236
+
+Name: Monsieur Beaucaire.m4v
+Drive: H:
+Dimensions of video file: 706.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.01 gigabytes
+PlexMovie.movie_list index # = 237
+
+Name: Monster House.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.62 gigabytes
+PlexMovie.movie_list index # = 238
+
+Name: Monsters University.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.67 gigabytes
+PlexMovie.movie_list index # = 239
+
+Name: Monsters vs Aliens.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 2.57 gigabytes
+PlexMovie.movie_list index # = 240
+
+Name: Monty Python's The Meaning of Life.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 12.21 gigabytes
+PlexMovie.movie_list index # = 241
+
+Name: Moon Over Miami.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.83 gigabytes
+PlexMovie.movie_list index # = 242
+
+Name: Mortal Kombat.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.13 gigabytes
+PlexMovie.movie_list index # = 243
+
+Name: Mr. Krueger's Christmas.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.54 gigabytes
+PlexMovie.movie_list index # = 244
+
+Name: Multiplicity.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.16 gigabytes
+PlexMovie.movie_list index # = 245
+
+Name: Muppet Christmas Carol.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 5.98 gigabytes
+PlexMovie.movie_list index # = 246
+
+Name: Muscle Beach party.m4v
+Drive: H:
+Dimensions of video file: 1916.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 2.76 gigabytes
+PlexMovie.movie_list index # = 247
+
+Name: My Bloody Valentine (1981).mkv
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.28 gigabytes
+PlexMovie.movie_list index # = 248
+
+Name: My Blue Heaven (1950).m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.82 gigabytes
+PlexMovie.movie_list index # = 249
+
+Name: My Little Chickadee.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.78 gigabytes
+PlexMovie.movie_list index # = 250
+
+Name: My Neighbor Totoro.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 2.13 gigabytes
+PlexMovie.movie_list index # = 251
+
+Name: My cousin vinny.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.18 gigabytes
+PlexMovie.movie_list index # = 252
+
+Name: Nanny McPhee.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.99 gigabytes
+PlexMovie.movie_list index # = 253
+
+Name: National Lampoon's Christmas Vacation.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.52 gigabytes
+PlexMovie.movie_list index # = 254
+
+Name: Neptunes Daughter.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.97 gigabytes
+PlexMovie.movie_list index # = 255
+
+Name: Nestor the Long Eared Christmas Donkey.mkv
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.27 gigabytes
+PlexMovie.movie_list index # = 256
+
+Name: Never Give A Sucker An Even Break.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.78 gigabytes
+PlexMovie.movie_list index # = 257
+
+Name: Never Say Die.m4v
+Drive: H:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.72 gigabytes
+PlexMovie.movie_list index # = 258
+
+Name: Nightmare on Elm Street 3.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.42 gigabytes
+PlexMovie.movie_list index # = 259
+
+Name: No Escape (1994).mkv
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.38 gigabytes
+PlexMovie.movie_list index # = 260
+
+Name: Nothing But Trouble.mp4
+Drive: H:
+Dimensions of video file: 1904.0 x 1072.0
+Resolution of video file: HD
+Size of movie file: 1.45 gigabytes
+PlexMovie.movie_list index # = 261
+
+Name: Oliver and Company.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 2.07 gigabytes
+PlexMovie.movie_list index # = 262
+
+Name: On An Island With You.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.6 gigabytes
+PlexMovie.movie_list index # = 263
+
+Name: On The Beach.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 388.0
+Resolution of video file: SD
+Size of movie file: 1.63 gigabytes
+PlexMovie.movie_list index # = 264
+
+Name: On The Town (1949).mp4
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.92 gigabytes
+PlexMovie.movie_list index # = 265
+
+Name: One False Move.mkv
+Drive: F:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 3.06 gigabytes
+PlexMovie.movie_list index # = 266
+
+Name: Osmosis Jones.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1072.0
+Resolution of video file: HD
+Size of movie file: 1.59 gigabytes
+PlexMovie.movie_list index # = 267
+
+Name: Out of the Past.m4v
+Drive: H:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.82 gigabytes
+PlexMovie.movie_list index # = 268
+
+Name: Outbreak.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.72 gigabytes
+PlexMovie.movie_list index # = 269
+
+Name: Over the Top.m4v
+Drive: F:
+Dimensions of video file: 1908.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.53 gigabytes
+PlexMovie.movie_list index # = 270
+
+Name: Palm Springs Weekend.mkv
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 3.24 gigabytes
+PlexMovie.movie_list index # = 271
+
+Name: Paperhouse (1989).avi
+Drive: F:
+Dimensions of video file: 800.0 x 448.0
+Resolution of video file: SD
+Size of movie file: 0.69 gigabytes
+PlexMovie.movie_list index # = 272
+
+Name: Patton.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 872.0
+Resolution of video file: HD
+Size of movie file: 3.27 gigabytes
+PlexMovie.movie_list index # = 273
+
+Name: Payback.m4v
+Drive: H:
+Dimensions of video file: 1918.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 1.94 gigabytes
+PlexMovie.movie_list index # = 274
+
+Name: Pee Wee's Big Adventure (1985).m4v
+Drive: F:
+Dimensions of video file: 1908.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.54 gigabytes
+PlexMovie.movie_list index # = 275
+
+Name: Peter Pan (1954).m4v
+Drive: H:
+Dimensions of video file: 1440.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.08 gigabytes
+PlexMovie.movie_list index # = 276
+
+Name: Peter Pan (2003).m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 796.0
+Resolution of video file: HD
+Size of movie file: 2.81 gigabytes
+PlexMovie.movie_list index # = 277
+
+Name: Plan 9.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.69 gigabytes
+PlexMovie.movie_list index # = 278
+
+Name: Planes, Trains And Automobiles.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.89 gigabytes
+PlexMovie.movie_list index # = 279
+
+Name: Planet 51.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 1.81 gigabytes
+PlexMovie.movie_list index # = 280
+
+Name: Planet of the Ape (2001).m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 2.26 gigabytes
+PlexMovie.movie_list index # = 281
+
+Name: Play Misty For Me.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.68 gigabytes
+PlexMovie.movie_list index # = 282
+
+Name: Pocahontas.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.48 gigabytes
+PlexMovie.movie_list index # = 283
+
+Name: Pokemon 3.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 2.55 gigabytes
+PlexMovie.movie_list index # = 284
+
+Name: Pokemon The First Movie.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 2.03 gigabytes
+PlexMovie.movie_list index # = 285
+
+Name: Pokemon The Movie 2000.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 2.71 gigabytes
+PlexMovie.movie_list index # = 286
+
+Name: Pokémon Mewtwo Returns (2001).avi
+Drive: F:
+Dimensions of video file: 720.0 x 416.0
+Resolution of video file: SD
+Size of movie file: 0.64 gigabytes
+PlexMovie.movie_list index # = 287
+
+Name: Poltergeist.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 798.0
+Resolution of video file: HD
+Size of movie file: 6.91 gigabytes
+PlexMovie.movie_list index # = 288
+
+Name: Pontypool.avi
+Drive: H:
+Dimensions of video file: 720.0 x 304.0
+Resolution of video file: SD
+Size of movie file: 1.45 gigabytes
+PlexMovie.movie_list index # = 289
+
+Name: Poppy.m4v
+Drive: H:
+Dimensions of video file: 716.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.49 gigabytes
+PlexMovie.movie_list index # = 290
+
+Name: Predator 2.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.12 gigabytes
+PlexMovie.movie_list index # = 291
+
+Name: Predator.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.73 gigabytes
+PlexMovie.movie_list index # = 292
+
+Name: Primal (2019).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 1.77 gigabytes
+PlexMovie.movie_list index # = 293
+
+Name: Project Moonbase.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.36 gigabytes
+PlexMovie.movie_list index # = 294
+
+Name: Psych The Movie.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.88 gigabytes
+PlexMovie.movie_list index # = 295
+
+Name: Psycho.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.58 gigabytes
+PlexMovie.movie_list index # = 296
+
+Name: Quigley down under.m4v
+Drive: H:
+Dimensions of video file: 1916.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 7.2 gigabytes
+PlexMovie.movie_list index # = 297
+
+Name: Radio Days.m4v
+Drive: H:
+Dimensions of video file: 718.0 x 464.0
+Resolution of video file: SD
+Size of movie file: 1.62 gigabytes
+PlexMovie.movie_list index # = 298
+
+Name: Radioland Murders.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 362.0
+Resolution of video file: SD
+Size of movie file: 1.0 gigabytes
+PlexMovie.movie_list index # = 299
+
+Name: Raising Arizona.m4v
+Drive: F:
+Dimensions of video file: 714.0 x 350.0
+Resolution of video file: SD
+Size of movie file: 0.99 gigabytes
+PlexMovie.movie_list index # = 300
+
+Name: Rambo (2008).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 798.0
+Resolution of video file: HD
+Size of movie file: 2.94 gigabytes
+PlexMovie.movie_list index # = 301
+
+Name: Rambo Ii.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 2.95 gigabytes
+PlexMovie.movie_list index # = 302
+
+Name: Rango.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 4.1 gigabytes
+PlexMovie.movie_list index # = 303
+
+Name: Rat Race (2001).m4v
+Drive: H:
+Dimensions of video file: 1916.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 6.8 gigabytes
+PlexMovie.movie_list index # = 304
+
+Name: Red Rock West.m4v
+Drive: H:
+Dimensions of video file: 708.0 x 462.0
+Resolution of video file: SD
+Size of movie file: 1.29 gigabytes
+PlexMovie.movie_list index # = 305
+
+Name: Red Sun.m4v
+Drive: H:
+Dimensions of video file: 716.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 2.19 gigabytes
+PlexMovie.movie_list index # = 306
+
+Name: Remember the Titans.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.84 gigabytes
+PlexMovie.movie_list index # = 307
+
+Name: Return of the Jedi.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.99 gigabytes
+PlexMovie.movie_list index # = 308
+
+Name: Revenge of the Nerds.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 5.34 gigabytes
+PlexMovie.movie_list index # = 309
+
+Name: Revenge of the Sith.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.66 gigabytes
+PlexMovie.movie_list index # = 310
+
+Name: Richer or Poorer.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 362.0
+Resolution of video file: SD
+Size of movie file: 1.23 gigabytes
+PlexMovie.movie_list index # = 311
+
+Name: Rio Lobo.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.12 gigabytes
+PlexMovie.movie_list index # = 312
+
+Name: Rise of the Guardians.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.71 gigabytes
+PlexMovie.movie_list index # = 313
+
+Name: River of no return.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 748.0
+Resolution of video file: HD
+Size of movie file: 2.05 gigabytes
+PlexMovie.movie_list index # = 314
+
+Name: Road Warrior.m4v
+Drive: F:
+Dimensions of video file: 1910.0 x 796.0
+Resolution of video file: HD
+Size of movie file: 2.95 gigabytes
+PlexMovie.movie_list index # = 315
+
+Name: Roadhouse.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 2.77 gigabytes
+PlexMovie.movie_list index # = 316
+
+Name: Roberta.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.83 gigabytes
+PlexMovie.movie_list index # = 317
+
+Name: Robin Hood Prince of Thieves.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.71 gigabytes
+PlexMovie.movie_list index # = 318
+
+Name: Robin Hood.m4v
+Drive: H:
+Dimensions of video file: 1798.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.48 gigabytes
+PlexMovie.movie_list index # = 319
+
+Name: Robot Jox.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 1.62 gigabytes
+PlexMovie.movie_list index # = 320
+
+Name: Rock & Rule.mp4
+Drive: H:
+Dimensions of video file: 1904.0 x 1024.0
+Resolution of video file: HD
+Size of movie file: 1.38 gigabytes
+PlexMovie.movie_list index # = 321
+
+Name: Romancing the stone.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 810.0
+Resolution of video file: HD
+Size of movie file: 3.4 gigabytes
+PlexMovie.movie_list index # = 322
+
+Name: Rudolph the Red Nosed Reindeer.m4v
+Drive: H:
+Dimensions of video file: 1426.0 x 1060.0
+Resolution of video file: HD
+Size of movie file: 2.01 gigabytes
+PlexMovie.movie_list index # = 323
+
+Name: Rudolph's Shiny New Year.mkv
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.49 gigabytes
+PlexMovie.movie_list index # = 324
+
+Name: SPYS (1974).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 464.0
+Resolution of video file: SD
+Size of movie file: 1.58 gigabytes
+PlexMovie.movie_list index # = 325
+
+Name: Sabrina.m4v
+Drive: H:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.12 gigabytes
+PlexMovie.movie_list index # = 326
+
+Name: Saludos Amigos.m4v
+Drive: H:
+Dimensions of video file: 716.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.28 gigabytes
+PlexMovie.movie_list index # = 327
+
+Name: Santa Claus is Coming to Town.m4v
+Drive: H:
+Dimensions of video file: 1444.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.99 gigabytes
+PlexMovie.movie_list index # = 328
+
+Name: Scarecrows (1988).m4v
+Drive: H:
+Dimensions of video file: 720.0 x 462.0
+Resolution of video file: SD
+Size of movie file: 1.01 gigabytes
+PlexMovie.movie_list index # = 329
+
+Name: Scary Movie 2.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.91 gigabytes
+PlexMovie.movie_list index # = 330
+
+Name: Scary Movie 3.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.24 gigabytes
+PlexMovie.movie_list index # = 331
+
+Name: Scary Movie.m4v
+Drive: H:
+Dimensions of video file: 1918.0 x 810.0
+Resolution of video file: HD
+Size of movie file: 2.5 gigabytes
+PlexMovie.movie_list index # = 332
+
+Name: Scooby Doo 2.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.29 gigabytes
+PlexMovie.movie_list index # = 333
+
+Name: Scooby Doo.m4v
+Drive: H:
+Dimensions of video file: 1908.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.69 gigabytes
+PlexMovie.movie_list index # = 334
+
+Name: Scrooged.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 7.43 gigabytes
+PlexMovie.movie_list index # = 335
+
+Name: Seems Like Old Times (1980).mp4
+Drive: F:
+Dimensions of video file: 708.0 x 462.0
+Resolution of video file: SD
+Size of movie file: 1.16 gigabytes
+PlexMovie.movie_list index # = 336
+
+Name: Send Me No Flowers (1964).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.15 gigabytes
+PlexMovie.movie_list index # = 337
+
+Name: Shall We Dance.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.36 gigabytes
+PlexMovie.movie_list index # = 338
+
+Name: Shaun of the Dead.m4v
+Drive: F:
+Dimensions of video file: 1874.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 3.58 gigabytes
+PlexMovie.movie_list index # = 339
+
+Name: She's The Man.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.45 gigabytes
+PlexMovie.movie_list index # = 340
+
+Name: Sherlock Holmes (2009).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.06 gigabytes
+PlexMovie.movie_list index # = 341
+
+Name: Sherlock Holmes Game of Shadows.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.32 gigabytes
+PlexMovie.movie_list index # = 342
+
+Name: Ship Ahoy.mkv
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.99 gigabytes
+PlexMovie.movie_list index # = 343
+
+Name: Shop Around the Corner.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.45 gigabytes
+PlexMovie.movie_list index # = 344
+
+Name: Short Circuit.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 798.0
+Resolution of video file: HD
+Size of movie file: 2.49 gigabytes
+PlexMovie.movie_list index # = 345
+
+Name: Shrek 2.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.9 gigabytes
+PlexMovie.movie_list index # = 346
+
+Name: Shrek Forever.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.45 gigabytes
+PlexMovie.movie_list index # = 347
+
+Name: Shrek.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.82 gigabytes
+PlexMovie.movie_list index # = 348
+
+Name: Signs (2002).m4v
+Drive: F:
+Dimensions of video file: 1762.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 1.62 gigabytes
+PlexMovie.movie_list index # = 349
+
+Name: Silence of the Lambs.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 2.82 gigabytes
+PlexMovie.movie_list index # = 350
+
+Name: Silent Hill.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 5.4 gigabytes
+PlexMovie.movie_list index # = 351
+
+Name: Silent Movie (1976).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.13 gigabytes
+PlexMovie.movie_list index # = 352
+
+Name: Silent Trigger.mkv
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.57 gigabytes
+PlexMovie.movie_list index # = 353
+
+Name: Silver Streak.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 5.65 gigabytes
+PlexMovie.movie_list index # = 354
+
+Name: Silverado.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 358.0
+Resolution of video file: SD
+Size of movie file: 2.05 gigabytes
+PlexMovie.movie_list index # = 355
+
+Name: Sin City.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.11 gigabytes
+PlexMovie.movie_list index # = 356
+
+Name: Singin' In The Rain (1952).m4v
+Drive: F:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.46 gigabytes
+PlexMovie.movie_list index # = 357
+
+Name: Sleepaway Camp.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.82 gigabytes
+PlexMovie.movie_list index # = 358
+
+Name: Sleeping Beauty.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 752.0
+Resolution of video file: HD
+Size of movie file: 1.25 gigabytes
+PlexMovie.movie_list index # = 359
+
+Name: Smokey & The Bandit.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 7.48 gigabytes
+PlexMovie.movie_list index # = 360
+
+Name: Snowball Express.m4v
+Drive: H:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.01 gigabytes
+PlexMovie.movie_list index # = 361
+
+Name: Son in Law.m4v
+Drive: F:
+Dimensions of video file: 714.0 x 366.0
+Resolution of video file: SD
+Size of movie file: 0.82 gigabytes
+PlexMovie.movie_list index # = 362
+
+Name: Son of Flubber.m4v
+Drive: F:
+Dimensions of video file: 710.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.18 gigabytes
+PlexMovie.movie_list index # = 363
+
+Name: Sorority Boys.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.09 gigabytes
+PlexMovie.movie_list index # = 364
+
+Name: Space Jam.m4v
+Drive: F:
+Dimensions of video file: 1908.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.58 gigabytes
+PlexMovie.movie_list index # = 365
+
+Name: Spaceballs (1987).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.31 gigabytes
+PlexMovie.movie_list index # = 366
+
+Name: Spawn (1997).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.43 gigabytes
+PlexMovie.movie_list index # = 367
+
+Name: Speed (1994).m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.22 gigabytes
+PlexMovie.movie_list index # = 368
+
+Name: Spy Kids 2.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.74 gigabytes
+PlexMovie.movie_list index # = 369
+
+Name: Stalag 17.m4v
+Drive: H:
+Dimensions of video file: 1452.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.99 gigabytes
+PlexMovie.movie_list index # = 370
+
+Name: Star Wars A New Hope.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.65 gigabytes
+PlexMovie.movie_list index # = 371
+
+Name: Stargate.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.63 gigabytes
+PlexMovie.movie_list index # = 372
+
+Name: Start The Revolution Without Me.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.61 gigabytes
+PlexMovie.movie_list index # = 373
+
+Name: Stay Tuned (1992).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 1.79 gigabytes
+PlexMovie.movie_list index # = 374
+
+Name: Stephen King's It.m4v
+Drive: H:
+Dimensions of video file: 1440.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 13.47 gigabytes
+PlexMovie.movie_list index # = 375
+
+Name: Stir Crazy.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 9.72 gigabytes
+PlexMovie.movie_list index # = 376
+
+Name: Strange Days (1995).m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 3.35 gigabytes
+PlexMovie.movie_list index # = 377
+
+Name: Strings (2004).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 848.0
+Resolution of video file: HD
+Size of movie file: 1.75 gigabytes
+PlexMovie.movie_list index # = 378
+
+Name: Stripes.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 6.16 gigabytes
+PlexMovie.movie_list index # = 379
+
+Name: Sunset Boulevard (1950).m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.33 gigabytes
+PlexMovie.movie_list index # = 380
+
+Name: Super Mario Bros.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 6.11 gigabytes
+PlexMovie.movie_list index # = 381
+
+Name: Support Your Local Sheriff.m4v
+Drive: F:
+Dimensions of video file: 714.0 x 458.0
+Resolution of video file: SD
+Size of movie file: 1.01 gigabytes
+PlexMovie.movie_list index # = 382
+
+Name: Swing Time.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 3.29 gigabytes
+PlexMovie.movie_list index # = 383
+
+Name: Tangled.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.36 gigabytes
+PlexMovie.movie_list index # = 384
+
+Name: Tarzan.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.52 gigabytes
+PlexMovie.movie_list index # = 385
+
+Name: Teenage Mutant Ninja Turtles (1990).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.2 gigabytes
+PlexMovie.movie_list index # = 386
+
+Name: Teenage Mutant Ninja Turtles II.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.55 gigabytes
+PlexMovie.movie_list index # = 387
+
+Name: Terminator 2.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.48 gigabytes
+PlexMovie.movie_list index # = 388
+
+Name: That Darn Cat (1997).m4v
+Drive: F:
+Dimensions of video file: 708.0 x 344.0
+Resolution of video file: SD
+Size of movie file: 0.88 gigabytes
+PlexMovie.movie_list index # = 389
+
+Name: The 6th Day.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.54 gigabytes
+PlexMovie.movie_list index # = 390
+
+Name: The Absent-Minded Professor.m4v
+Drive: F:
+Dimensions of video file: 676.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.22 gigabytes
+PlexMovie.movie_list index # = 391
+
+Name: The Adventures of Pluto Nash.mp4
+Drive: F:
+Dimensions of video file: 1904.0 x 1072.0
+Resolution of video file: HD
+Size of movie file: 1.58 gigabytes
+PlexMovie.movie_list index # = 392
+
+Name: The African Queen.m4v
+Drive: F:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 6.13 gigabytes
+PlexMovie.movie_list index # = 393
+
+Name: The Aristocats.m4v
+Drive: H:
+Dimensions of video file: 1798.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.5 gigabytes
+PlexMovie.movie_list index # = 394
+
+Name: The Bank Dick.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.77 gigabytes
+PlexMovie.movie_list index # = 395
+
+Name: The Barefoot Executive (1971).m4v
+Drive: F:
+Dimensions of video file: 708.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.3 gigabytes
+PlexMovie.movie_list index # = 396
+
+Name: The Barkleys Of Broadway.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.68 gigabytes
+PlexMovie.movie_list index # = 397
+
+Name: The Bat (1959).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 1.81 gigabytes
+PlexMovie.movie_list index # = 398
+
+Name: The Big Combo.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 8.55 gigabytes
+PlexMovie.movie_list index # = 399
+
+Name: The Blob (1988).m4v
+Drive: F:
+Dimensions of video file: 708.0 x 462.0
+Resolution of video file: SD
+Size of movie file: 1.24 gigabytes
+PlexMovie.movie_list index # = 400
+
+Name: The Blob.m4v
+Drive: F:
+Dimensions of video file: 1800.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 7.5 gigabytes
+PlexMovie.movie_list index # = 401
+
+Name: The Boxtrolls.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.66 gigabytes
+PlexMovie.movie_list index # = 402
+
+Name: The Brain From Planet Arous.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.89 gigabytes
+PlexMovie.movie_list index # = 403
+
+Name: The Buttercream Gang.m4v
+Drive: H:
+Dimensions of video file: 702.0 x 476.0
+Resolution of video file: SD
+Size of movie file: 1.85 gigabytes
+PlexMovie.movie_list index # = 404
+
+Name: The California Kid.m4v
+Drive: H:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.59 gigabytes
+PlexMovie.movie_list index # = 405
+
+Name: The Cannonball Run.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.71 gigabytes
+PlexMovie.movie_list index # = 406
+
+Name: The Cat From Outer Space (1978).m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.3 gigabytes
+PlexMovie.movie_list index # = 407
+
+Name: The Chinese Ring.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.79 gigabytes
+PlexMovie.movie_list index # = 408
+
+Name: The City of the Dead.m4v
+Drive: F:
+Dimensions of video file: 1792.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.38 gigabytes
+PlexMovie.movie_list index # = 409
+
+Name: The Comancheros.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 5.46 gigabytes
+PlexMovie.movie_list index # = 410
+
+Name: The Computer Wore Tennis Shoes (1969).mp4
+Drive: F:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.35 gigabytes
+PlexMovie.movie_list index # = 411
+
+Name: The Crow.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.77 gigabytes
+PlexMovie.movie_list index # = 412
+
+Name: The Dark Backward.mkv
+Drive: H:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 2.46 gigabytes
+PlexMovie.movie_list index # = 413
+
+Name: The Deadly Spawn (1983).mp4
+Drive: F:
+Dimensions of video file: 1424.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.56 gigabytes
+PlexMovie.movie_list index # = 414
+
+Name: The Delta Force.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 6.19 gigabytes
+PlexMovie.movie_list index # = 415
+
+Name: The Devil's Advocate (1997).m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.62 gigabytes
+PlexMovie.movie_list index # = 416
+
+Name: The Dolly Sisters.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.56 gigabytes
+PlexMovie.movie_list index # = 417
+
+Name: The Driver (1978).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 1.24 gigabytes
+PlexMovie.movie_list index # = 418
+
+Name: The Dungeonmaster.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1072.0
+Resolution of video file: HD
+Size of movie file: 1.16 gigabytes
+PlexMovie.movie_list index # = 419
+
+Name: The Empire Strikes Back.mp4
+Drive: H:
+Dimensions of video file: 1918.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.83 gigabytes
+PlexMovie.movie_list index # = 420
+
+Name: The Endless Summer.mkv
+Drive: H:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 2.17 gigabytes
+PlexMovie.movie_list index # = 421
+
+Name: The Faculty.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.27 gigabytes
+PlexMovie.movie_list index # = 422
+
+Name: The Fall (2006).m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 5.53 gigabytes
+PlexMovie.movie_list index # = 423
+
+Name: The Fog (1980).m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 1.5 gigabytes
+PlexMovie.movie_list index # = 424
+
+Name: The Gay Divorcee.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.35 gigabytes
+PlexMovie.movie_list index # = 425
+
+Name: The Ghost Ship.m4v
+Drive: H:
+Dimensions of video file: 706.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.11 gigabytes
+PlexMovie.movie_list index # = 426
+
+Name: The Ghost and Mr. Chicken.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 362.0
+Resolution of video file: SD
+Size of movie file: 0.88 gigabytes
+PlexMovie.movie_list index # = 427
+
+Name: The Ghostbreakers.m4v
+Drive: H:
+Dimensions of video file: 716.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.41 gigabytes
+PlexMovie.movie_list index # = 428
+
+Name: The Good Dinosaur.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 3.25 gigabytes
+PlexMovie.movie_list index # = 429
+
+Name: The Good The Bad & The Ugly.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 4.31 gigabytes
+PlexMovie.movie_list index # = 430
+
+Name: The Goonies (1985).m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 798.0
+Resolution of video file: HD
+Size of movie file: 2.37 gigabytes
+PlexMovie.movie_list index # = 431
+
+Name: The Great Outdoors.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.35 gigabytes
+PlexMovie.movie_list index # = 432
+
+Name: The Great Scout & Cathouse Thursday.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 4.78 gigabytes
+PlexMovie.movie_list index # = 433
+
+Name: The Greatest Show On Earth.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.26 gigabytes
+PlexMovie.movie_list index # = 434
+
+Name: The Greatest Showman.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 1.63 gigabytes
+PlexMovie.movie_list index # = 435
+
+Name: The Grudge.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.13 gigabytes
+PlexMovie.movie_list index # = 436
+
+Name: The Howling.m4v
+Drive: F:
+Dimensions of video file: 1914.0 x 1032.0
+Resolution of video file: HD
+Size of movie file: 3.2 gigabytes
+PlexMovie.movie_list index # = 437
+
+Name: The Incredibles.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 802.0
+Resolution of video file: HD
+Size of movie file: 3.24 gigabytes
+PlexMovie.movie_list index # = 438
+
+Name: The Jungle Book.m4v
+Drive: F:
+Dimensions of video file: 1888.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.22 gigabytes
+PlexMovie.movie_list index # = 439
+
+Name: The Karate Kid.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 5.0 gigabytes
+PlexMovie.movie_list index # = 440
+
+Name: The Keep.mkv
+Drive: H:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 2.27 gigabytes
+PlexMovie.movie_list index # = 441
+
+Name: The Killers (1946).mp4
+Drive: F:
+Dimensions of video file: 1456.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.64 gigabytes
+PlexMovie.movie_list index # = 442
+
+Name: The Last Man on Earth (1964).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 824.0
+Resolution of video file: HD
+Size of movie file: 1.23 gigabytes
+PlexMovie.movie_list index # = 443
+
+Name: The Last Starfighter.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 1.88 gigabytes
+PlexMovie.movie_list index # = 444
+
+Name: The Lion King.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.58 gigabytes
+PlexMovie.movie_list index # = 445
+
+Name: The Little Mermaid.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.8 gigabytes
+PlexMovie.movie_list index # = 446
+
+Name: The Lost Batallion.avi
+Drive: F:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 2.02 gigabytes
+PlexMovie.movie_list index # = 447
+
+Name: The Lost Boys.m4v
+Drive: F:
+Dimensions of video file: 1908.0 x 796.0
+Resolution of video file: HD
+Size of movie file: 2.57 gigabytes
+PlexMovie.movie_list index # = 448
+
+Name: The Love Bug (1968).m4v
+Drive: F:
+Dimensions of video file: 710.0 x 472.0
+Resolution of video file: SD
+Size of movie file: 1.18 gigabytes
+PlexMovie.movie_list index # = 449
+
+Name: The Mad (2006).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.91 gigabytes
+PlexMovie.movie_list index # = 450
+
+Name: The Man on the Flying Trapeze.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.12 gigabytes
+PlexMovie.movie_list index # = 451
+
+Name: The Mask (1994).mp4
+Drive: F:
+Dimensions of video file: 1918.0 x 1078.0
+Resolution of video file: HD
+Size of movie file: 2.28 gigabytes
+PlexMovie.movie_list index # = 452
+
+Name: The Masque of the Red Death.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 4.42 gigabytes
+PlexMovie.movie_list index # = 453
+
+Name: The Mechanic (1972).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1032.0
+Resolution of video file: HD
+Size of movie file: 1.45 gigabytes
+PlexMovie.movie_list index # = 454
+
+Name: The Mummy (1999).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.72 gigabytes
+PlexMovie.movie_list index # = 455
+
+Name: The Mummy Returns.m4v
+Drive: H:
+Dimensions of video file: 1918.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.29 gigabytes
+PlexMovie.movie_list index # = 456
+
+Name: The Naked Gun 2.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.17 gigabytes
+PlexMovie.movie_list index # = 457
+
+Name: The Naked Gun 3.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.92 gigabytes
+PlexMovie.movie_list index # = 458
+
+Name: The Naked Gun.m4v
+Drive: F:
+Dimensions of video file: 716.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.2 gigabytes
+PlexMovie.movie_list index # = 459
+
+Name: The Neverending Story.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.43 gigabytes
+PlexMovie.movie_list index # = 460
+
+Name: The Night Stalker (1972).mp4
+Drive: F:
+Dimensions of video file: 1442.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.98 gigabytes
+PlexMovie.movie_list index # = 461
+
+Name: The Night Strangler (1973).m4v
+Drive: F:
+Dimensions of video file: 1440.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.34 gigabytes
+PlexMovie.movie_list index # = 462
+
+Name: The Nightmare Before Christmas.m4v
+Drive: F:
+Dimensions of video file: 1800.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.62 gigabytes
+PlexMovie.movie_list index # = 463
+
+Name: The North Avenue Irregulars (1979).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.9 gigabytes
+PlexMovie.movie_list index # = 464
+
+Name: The Old Dark House.m4v
+Drive: H:
+Dimensions of video file: 1478.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.49 gigabytes
+PlexMovie.movie_list index # = 465
+
+Name: The Old Fashioned Way.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.88 gigabytes
+PlexMovie.movie_list index # = 466
+
+Name: The Outlaw Josey Wales.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.34 gigabytes
+PlexMovie.movie_list index # = 467
+
+Name: The Paper Brigade (1996).mp4
+Drive: F:
+Dimensions of video file: 708.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.16 gigabytes
+PlexMovie.movie_list index # = 468
+
+Name: The Phantom Menace.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.73 gigabytes
+PlexMovie.movie_list index # = 469
+
+Name: The Pit and the Pendulum.m4v
+Drive: H:
+Dimensions of video file: 1916.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 4.11 gigabytes
+PlexMovie.movie_list index # = 470
+
+Name: The Polar Express.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 794.0
+Resolution of video file: HD
+Size of movie file: 2.86 gigabytes
+PlexMovie.movie_list index # = 471
+
+Name: The Princess Bride.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.68 gigabytes
+PlexMovie.movie_list index # = 472
+
+Name: The Rescuers Down Under.m4v
+Drive: H:
+Dimensions of video file: 1806.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.27 gigabytes
+PlexMovie.movie_list index # = 473
+
+Name: The Rescuers.m4v
+Drive: H:
+Dimensions of video file: 1792.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.49 gigabytes
+PlexMovie.movie_list index # = 474
+
+Name: The Ring.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 2.91 gigabytes
+PlexMovie.movie_list index # = 475
+
+Name: The Rocketeer.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 2.41 gigabytes
+PlexMovie.movie_list index # = 476
+
+Name: The Saint (1997).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 2.06 gigabytes
+PlexMovie.movie_list index # = 477
+
+Name: The Sandlot.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 4.64 gigabytes
+PlexMovie.movie_list index # = 478
+
+Name: The Santa Clause 2.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 8.18 gigabytes
+PlexMovie.movie_list index # = 479
+
+Name: The Santa Clause.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 6.95 gigabytes
+PlexMovie.movie_list index # = 480
+
+Name: The Searchers.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1078.0
+Resolution of video file: HD
+Size of movie file: 4.56 gigabytes
+PlexMovie.movie_list index # = 481
+
+Name: The Secret Life of Pets.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 1.91 gigabytes
+PlexMovie.movie_list index # = 482
+
+Name: The Seven Year Itch.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 752.0
+Resolution of video file: HD
+Size of movie file: 2.26 gigabytes
+PlexMovie.movie_list index # = 483
+
+Name: The Shaggy D.A. (1976).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.01 gigabytes
+PlexMovie.movie_list index # = 484
+
+Name: The Shaggy Dog (1959).m4v
+Drive: F:
+Dimensions of video file: 704.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.25 gigabytes
+PlexMovie.movie_list index # = 485
+
+Name: The Shining.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.59 gigabytes
+PlexMovie.movie_list index # = 486
+
+Name: The Story Of Vernon And Irene Castle.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.97 gigabytes
+PlexMovie.movie_list index # = 487
+
+Name: The Swarm.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 368.0
+Resolution of video file: SD
+Size of movie file: 2.09 gigabytes
+PlexMovie.movie_list index # = 488
+
+Name: The Sword in the Stone.m4v
+Drive: H:
+Dimensions of video file: 1888.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.77 gigabytes
+PlexMovie.movie_list index # = 489
+
+Name: The Terminator.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 3.46 gigabytes
+PlexMovie.movie_list index # = 490
+
+Name: The Thing (1981).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.72 gigabytes
+PlexMovie.movie_list index # = 491
+
+Name: The Thirteenth Floor.m4v
+Drive: H:
+Dimensions of video file: 1918.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 1.68 gigabytes
+PlexMovie.movie_list index # = 492
+
+Name: The Thomas Crown Affair (1999).m4v
+Drive: H:
+Dimensions of video file: 1918.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 2.12 gigabytes
+PlexMovie.movie_list index # = 493
+
+Name: The Three Caballeros.m4v
+Drive: H:
+Dimensions of video file: 718.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 2.53 gigabytes
+PlexMovie.movie_list index # = 494
+
+Name: The Trap (1946).m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.7 gigabytes
+PlexMovie.movie_list index # = 495
+
+Name: The Ultimate Christmas Present.mkv
+Drive: H:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 1.9 gigabytes
+PlexMovie.movie_list index # = 496
+
+Name: The Unsaid.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.41 gigabytes
+PlexMovie.movie_list index # = 497
+
+Name: The War Wagon.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.78 gigabytes
+PlexMovie.movie_list index # = 498
+
+Name: The Wicker Man.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 4.97 gigabytes
+PlexMovie.movie_list index # = 499
+
+Name: The Wizard of Oz.m4v
+Drive: F:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.43 gigabytes
+PlexMovie.movie_list index # = 500
+
+Name: The X-Files.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.18 gigabytes
+PlexMovie.movie_list index # = 501
+
+Name: The Year without a santa claus.m4v
+Drive: H:
+Dimensions of video file: 1476.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.24 gigabytes
+PlexMovie.movie_list index # = 502
+
+Name: The breakfast club.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.01 gigabytes
+PlexMovie.movie_list index # = 503
+
+Name: The enforcer (1976).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 798.0
+Resolution of video file: HD
+Size of movie file: 2.16 gigabytes
+PlexMovie.movie_list index # = 504
+
+Name: The last samurai.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 792.0
+Resolution of video file: HD
+Size of movie file: 3.36 gigabytes
+PlexMovie.movie_list index # = 505
+
+Name: They Live.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 362.0
+Resolution of video file: SD
+Size of movie file: 0.78 gigabytes
+PlexMovie.movie_list index # = 506
+
+Name: Thief.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 6.46 gigabytes
+PlexMovie.movie_list index # = 507
+
+Name: Things To Do In Denver When You're Dead.mkv
+Drive: F:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.41 gigabytes
+PlexMovie.movie_list index # = 508
+
+Name: Thirteen Ghosts.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.93 gigabytes
+PlexMovie.movie_list index # = 509
+
+Name: Three Amigos!.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 4.34 gigabytes
+PlexMovie.movie_list index # = 510
+
+Name: Time Bandits.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.49 gigabytes
+PlexMovie.movie_list index # = 511
+
+Name: Timecop.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 814.0
+Resolution of video file: HD
+Size of movie file: 1.83 gigabytes
+PlexMovie.movie_list index # = 512
+
+Name: Timerider.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 2.93 gigabytes
+PlexMovie.movie_list index # = 513
+
+Name: Tinker Bell & The Legend of the Neverbeast.mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.16 gigabytes
+PlexMovie.movie_list index # = 514
+
+Name: Tinker Bell.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.21 gigabytes
+PlexMovie.movie_list index # = 515
+
+Name: Tinkerbell Great Fairy Rescue.m4v
+Drive: H:
+Dimensions of video file: 1916.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.11 gigabytes
+PlexMovie.movie_list index # = 516
+
+Name: Tombstone.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.95 gigabytes
+PlexMovie.movie_list index # = 517
+
+Name: Tommy Boy.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.04 gigabytes
+PlexMovie.movie_list index # = 518
+
+Name: Top Gun.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.46 gigabytes
+PlexMovie.movie_list index # = 519
+
+Name: Top Hat.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.8 gigabytes
+PlexMovie.movie_list index # = 520
+
+Name: Total Recall.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 6.8 gigabytes
+PlexMovie.movie_list index # = 521
+
+Name: Touch of Evil (1958).mp4
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.46 gigabytes
+PlexMovie.movie_list index # = 522
+
+Name: Tourist Trap.m4v
+Drive: F:
+Dimensions of video file: 1890.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.32 gigabytes
+PlexMovie.movie_list index # = 523
+
+Name: Tower of Terror.m4v
+Drive: F:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.95 gigabytes
+PlexMovie.movie_list index # = 524
+
+Name: Toy Story 2.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.76 gigabytes
+PlexMovie.movie_list index # = 525
+
+Name: Toy Story 3.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.62 gigabytes
+PlexMovie.movie_list index # = 526
+
+Name: Toy Story 4.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 2.59 gigabytes
+PlexMovie.movie_list index # = 527
+
+Name: Toy Story.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.93 gigabytes
+PlexMovie.movie_list index # = 528
+
+Name: Trading Places.mp4
+Drive: H:
+Dimensions of video file: 1918.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.58 gigabytes
+PlexMovie.movie_list index # = 529
+
+Name: Tremors 3.m4v
+Drive: H:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.64 gigabytes
+PlexMovie.movie_list index # = 530
+
+Name: Tremors 4.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 5.89 gigabytes
+PlexMovie.movie_list index # = 531
+
+Name: Tremors II.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 6.61 gigabytes
+PlexMovie.movie_list index # = 532
+
+Name: Tremors.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 9.37 gigabytes
+PlexMovie.movie_list index # = 533
+
+Name: True Grit (1969).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.01 gigabytes
+PlexMovie.movie_list index # = 534
+
+Name: True Lies.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.45 gigabytes
+PlexMovie.movie_list index # = 535
+
+Name: Turbo (2013).m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.41 gigabytes
+PlexMovie.movie_list index # = 536
+
+Name: Twas the Night.mkv
+Drive: H:
+Dimensions of video file: 1280.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 2.06 gigabytes
+PlexMovie.movie_list index # = 537
+
+Name: Twilight Zone The Movie (1983).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1072.0
+Resolution of video file: HD
+Size of movie file: 1.87 gigabytes
+PlexMovie.movie_list index # = 538
+
+Name: Unbreakable.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 1.87 gigabytes
+PlexMovie.movie_list index # = 539
+
+Name: Uncle Buck.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.01 gigabytes
+PlexMovie.movie_list index # = 540
+
+Name: Under Wraps (1997).m4v
+Drive: F:
+Dimensions of video file: 960.0 x 720.0
+Resolution of video file: HD
+Size of movie file: 0.87 gigabytes
+PlexMovie.movie_list index # = 541
+
+Name: Universal Soldier.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 2.49 gigabytes
+PlexMovie.movie_list index # = 542
+
+Name: Vacation (1983).m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.19 gigabytes
+PlexMovie.movie_list index # = 543
+
+Name: Vegas Vacation.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.84 gigabytes
+PlexMovie.movie_list index # = 544
+
+Name: Victory (1981).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 364.0
+Resolution of video file: SD
+Size of movie file: 1.62 gigabytes
+PlexMovie.movie_list index # = 545
+
+Name: Village of the Damned (1995).m4v
+Drive: F:
+Dimensions of video file: 716.0 x 362.0
+Resolution of video file: SD
+Size of movie file: 0.98 gigabytes
+PlexMovie.movie_list index # = 546
+
+Name: Von Ryan's Express.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 4.33 gigabytes
+PlexMovie.movie_list index # = 547
+
+Name: Wargames.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 5.67 gigabytes
+PlexMovie.movie_list index # = 548
+
+Name: Waterhole #3.m4v
+Drive: F:
+Dimensions of video file: 716.0 x 364.0
+Resolution of video file: SD
+Size of movie file: 1.79 gigabytes
+PlexMovie.movie_list index # = 549
+
+Name: Waterworld.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 6.34 gigabytes
+PlexMovie.movie_list index # = 550
+
+Name: Wayne's World 2.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.92 gigabytes
+PlexMovie.movie_list index # = 551
+
+Name: Wayne's World.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.81 gigabytes
+PlexMovie.movie_list index # = 552
+
+Name: We Summon the Darkness.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 808.0
+Resolution of video file: HD
+Size of movie file: 1.91 gigabytes
+PlexMovie.movie_list index # = 553
+
+Name: Wet Hot American Summer.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.27 gigabytes
+PlexMovie.movie_list index # = 554
+
+Name: When Good Ghouls Go Bad.avi
+Drive: H:
+Dimensions of video file: 720.0 x 404.0
+Resolution of video file: SD
+Size of movie file: 1.21 gigabytes
+PlexMovie.movie_list index # = 555
+
+Name: When Worlds Collide.m4v
+Drive: H:
+Dimensions of video file: 716.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.01 gigabytes
+PlexMovie.movie_list index # = 556
+
+Name: Where Eagles Dare (1968).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 362.0
+Resolution of video file: SD
+Size of movie file: 1.43 gigabytes
+PlexMovie.movie_list index # = 557
+
+Name: White Christmas.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 10.58 gigabytes
+PlexMovie.movie_list index # = 558
+
+Name: Who Framed Roger Rabbit.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 5.45 gigabytes
+PlexMovie.movie_list index # = 559
+
+Name: Willow.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.78 gigabytes
+PlexMovie.movie_list index # = 560
+
+Name: Willy Wonka & The Chocolate Factory.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.74 gigabytes
+PlexMovie.movie_list index # = 561
+
+Name: Winnie the Pooh.m4v
+Drive: H:
+Dimensions of video file: 1792.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.55 gigabytes
+PlexMovie.movie_list index # = 562
+
+Name: Xtro (1982).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.32 gigabytes
+PlexMovie.movie_list index # = 563
+
+Name: You Can't Cheat an Honest Man.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.87 gigabytes
+PlexMovie.movie_list index # = 564
+
+Name: You'll Find Out.mkv
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 3.14 gigabytes
+PlexMovie.movie_list index # = 565
+
+Name: You're Telling Me.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.82 gigabytes
+PlexMovie.movie_list index # = 566
+
+Name: You've Got Mail.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 6.69 gigabytes
+PlexMovie.movie_list index # = 567
+
+Name: Young Doctors in Love.mp4
+Drive: F:
+Dimensions of video file: 720.0 x 344.0
+Resolution of video file: SD
+Size of movie file: 0.78 gigabytes
+PlexMovie.movie_list index # = 568
+
+Name: Young Frankenstein (1974).m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 6.14 gigabytes
+PlexMovie.movie_list index # = 569
+
+Name: Your World As I See It (1994).m4v
+Drive: F:
+Dimensions of video file: 708.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.38 gigabytes
+PlexMovie.movie_list index # = 570
+
+Name: Zoolander.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.83 gigabytes
+PlexMovie.movie_list index # = 571
+
+Name: a girl in every port.m4v
+Drive: H:
+Dimensions of video file: 718.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.09 gigabytes
+PlexMovie.movie_list index # = 572
+
+Name: a shot in the dark.m4v
+Drive: H:
+Dimensions of video file: 708.0 x 368.0
+Resolution of video file: SD
+Size of movie file: 1.11 gigabytes
+PlexMovie.movie_list index # = 573
+
+Name: abbott & Costello meet jerry seinfeld.m4v
+Drive: F:
+Dimensions of video file: 704.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 0.96 gigabytes
+PlexMovie.movie_list index # = 574
+
+Name: abbott & costello go to mars.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.42 gigabytes
+PlexMovie.movie_list index # = 575
+
+Name: abbott & costello meet dr jekyll and mr hyde.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 2.03 gigabytes
+PlexMovie.movie_list index # = 576
+
+Name: abbott & costello meet frankenstein.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.15 gigabytes
+PlexMovie.movie_list index # = 577
+
+Name: abbott & costello meet the invisible man.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.2 gigabytes
+PlexMovie.movie_list index # = 578
+
+Name: abbott & costello meet the keystone cops.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 2.12 gigabytes
+PlexMovie.movie_list index # = 579
+
+Name: abbott & costello meet the mummy.m4v
+Drive: F:
+Dimensions of video file: 716.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.75 gigabytes
+PlexMovie.movie_list index # = 580
+
+Name: abbott and costello in the foreign legion.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.32 gigabytes
+PlexMovie.movie_list index # = 581
+
+Name: abott & costello meet the killer boris karloff.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.06 gigabytes
+PlexMovie.movie_list index # = 582
+
+Name: air force (1943).m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.7 gigabytes
+PlexMovie.movie_list index # = 583
+
+Name: alien 3.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 810.0
+Resolution of video file: HD
+Size of movie file: 3.52 gigabytes
+PlexMovie.movie_list index # = 584
+
+Name: alien resurrection.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 3.56 gigabytes
+PlexMovie.movie_list index # = 585
+
+Name: alien.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.08 gigabytes
+PlexMovie.movie_list index # = 586
+
+Name: american graffiti.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 814.0
+Resolution of video file: HD
+Size of movie file: 3.12 gigabytes
+PlexMovie.movie_list index # = 587
+
+Name: amityville horror.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.88 gigabytes
+PlexMovie.movie_list index # = 588
+
+Name: an american in paris.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.09 gigabytes
+PlexMovie.movie_list index # = 589
+
+Name: apple dumpling gang rides again.m4v
+Drive: H:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.61 gigabytes
+PlexMovie.movie_list index # = 590
+
+Name: around the world in 80 days part 1.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 392.0
+Resolution of video file: SD
+Size of movie file: 2.03 gigabytes
+PlexMovie.movie_list index # = 591
+
+Name: avengers age of ultron.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 3.12 gigabytes
+PlexMovie.movie_list index # = 592
+
+Name: bad grandpa.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.75 gigabytes
+PlexMovie.movie_list index # = 593
+
+Name: battle cry (1954).m4v
+Drive: H:
+Dimensions of video file: 720.0 x 362.0
+Resolution of video file: SD
+Size of movie file: 2.73 gigabytes
+PlexMovie.movie_list index # = 594
+
+Name: battleground (1949).m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 4.69 gigabytes
+PlexMovie.movie_list index # = 595
+
+Name: beauty & the beast (2017).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 3.12 gigabytes
+PlexMovie.movie_list index # = 596
+
+Name: beauty & the beast.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.24 gigabytes
+PlexMovie.movie_list index # = 597
+
+Name: blades of glory.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.7 gigabytes
+PlexMovie.movie_list index # = 598
+
+Name: brighton beach memoirs.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.92 gigabytes
+PlexMovie.movie_list index # = 599
+
+Name: bubba ho tep.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.69 gigabytes
+PlexMovie.movie_list index # = 600
+
+Name: buck privates come home.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.25 gigabytes
+PlexMovie.movie_list index # = 601
+
+Name: candyman.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.77 gigabytes
+PlexMovie.movie_list index # = 602
+
+Name: captain america winter soldier.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.7 gigabytes
+PlexMovie.movie_list index # = 603
+
+Name: carrie.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.66 gigabytes
+PlexMovie.movie_list index # = 604
+
+Name: charlie chan and the curse of the dragon queen.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.22 gigabytes
+PlexMovie.movie_list index # = 605
+
+Name: charlie chan at the olympics.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.32 gigabytes
+PlexMovie.movie_list index # = 606
+
+Name: charlie chan at the opera.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.31 gigabytes
+PlexMovie.movie_list index # = 607
+
+Name: charlie chan at the race track.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.39 gigabytes
+PlexMovie.movie_list index # = 608
+
+Name: charlie chan at the wax museum.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.14 gigabytes
+PlexMovie.movie_list index # = 609
+
+Name: charlie chan at treasure island.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.71 gigabytes
+PlexMovie.movie_list index # = 610
+
+Name: charlie chan in egypt.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 3.17 gigabytes
+PlexMovie.movie_list index # = 611
+
+Name: charlie chan in panama.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.54 gigabytes
+PlexMovie.movie_list index # = 612
+
+Name: charlie chan in reno.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.36 gigabytes
+PlexMovie.movie_list index # = 613
+
+Name: charlie chan in rio.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.18 gigabytes
+PlexMovie.movie_list index # = 614
+
+Name: charlie chan on broadway.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.11 gigabytes
+PlexMovie.movie_list index # = 615
+
+Name: charlie chan's secret.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.4 gigabytes
+PlexMovie.movie_list index # = 616
+
+Name: cheech & chong up in smoke.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.82 gigabytes
+PlexMovie.movie_list index # = 617
+
+Name: close encounters.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 4.83 gigabytes
+PlexMovie.movie_list index # = 618
+
+Name: comin round the mountain.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 2.37 gigabytes
+PlexMovie.movie_list index # = 619
+
+Name: congo.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.95 gigabytes
+PlexMovie.movie_list index # = 620
+
+Name: crazy stupid love.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 360.0
+Resolution of video file: SD
+Size of movie file: 1.27 gigabytes
+PlexMovie.movie_list index # = 621
+
+Name: dan in real life.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.24 gigabytes
+PlexMovie.movie_list index # = 622
+
+Name: dark crystal.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.22 gigabytes
+PlexMovie.movie_list index # = 623
+
+Name: dark night of the scarecrow.m4v
+Drive: F:
+Dimensions of video file: 708.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.27 gigabytes
+PlexMovie.movie_list index # = 624
+
+Name: death to smoochy.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.0 gigabytes
+PlexMovie.movie_list index # = 625
+
+Name: death wish 2.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 6.42 gigabytes
+PlexMovie.movie_list index # = 626
+
+Name: death wish 3.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.32 gigabytes
+PlexMovie.movie_list index # = 627
+
+Name: death wish iv.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 4.62 gigabytes
+PlexMovie.movie_list index # = 628
+
+Name: death wish.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.0 gigabytes
+PlexMovie.movie_list index # = 629
+
+Name: dirty harry.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.4 gigabytes
+PlexMovie.movie_list index # = 630
+
+Name: double or nothing (1937).m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.4 gigabytes
+PlexMovie.movie_list index # = 631
+
+Name: dr strangelove.m4v
+Drive: F:
+Dimensions of video file: 712.0 x 464.0
+Resolution of video file: SD
+Size of movie file: 1.51 gigabytes
+PlexMovie.movie_list index # = 632
+
+Name: dumb & dumber to.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 2.61 gigabytes
+PlexMovie.movie_list index # = 633
+
+Name: east side of heaven.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 2.09 gigabytes
+PlexMovie.movie_list index # = 634
+
+Name: easy money.m4v
+Drive: H:
+Dimensions of video file: 718.0 x 468.0
+Resolution of video file: SD
+Size of movie file: 1.62 gigabytes
+PlexMovie.movie_list index # = 635
+
+Name: eight crazy nights.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 472.0
+Resolution of video file: SD
+Size of movie file: 0.81 gigabytes
+PlexMovie.movie_list index # = 636
+
+Name: ernest goes to africa.m4v
+Drive: F:
+Dimensions of video file: 712.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.68 gigabytes
+PlexMovie.movie_list index # = 637
+
+Name: escape to witch mountain.m4v
+Drive: H:
+Dimensions of video file: 708.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.59 gigabytes
+PlexMovie.movie_list index # = 638
+
+Name: event horizon.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 820.0
+Resolution of video file: HD
+Size of movie file: 2.49 gigabytes
+PlexMovie.movie_list index # = 639
+
+Name: face off.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.77 gigabytes
+PlexMovie.movie_list index # = 640
+
+Name: ferngully.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.32 gigabytes
+PlexMovie.movie_list index # = 641
+
+Name: fire (1977).m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.96 gigabytes
+PlexMovie.movie_list index # = 642
+
+Name: for a few dollars more.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 814.0
+Resolution of video file: HD
+Size of movie file: 6.95 gigabytes
+PlexMovie.movie_list index # = 643
+
+Name: freaky friday.m4v
+Drive: F:
+Dimensions of video file: 710.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 2.11 gigabytes
+PlexMovie.movie_list index # = 644
+
+Name: fright night.m4v
+Drive: F:
+Dimensions of video file: 708.0 x 358.0
+Resolution of video file: SD
+Size of movie file: 0.92 gigabytes
+PlexMovie.movie_list index # = 645
+
+Name: ghosts of girlfriends past.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 360.0
+Resolution of video file: SD
+Size of movie file: 1.21 gigabytes
+PlexMovie.movie_list index # = 646
+
+Name: gladiator.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 5.53 gigabytes
+PlexMovie.movie_list index # = 647
+
+Name: glass bottom boat.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 360.0
+Resolution of video file: SD
+Size of movie file: 1.28 gigabytes
+PlexMovie.movie_list index # = 648
+
+Name: gone with the wind.m4v
+Drive: H:
+Dimensions of video file: 1480.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.24 gigabytes
+PlexMovie.movie_list index # = 649
+
+Name: gremlins 2.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.21 gigabytes
+PlexMovie.movie_list index # = 650
+
+Name: here come the co-eds.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.9 gigabytes
+PlexMovie.movie_list index # = 651
+
+Name: here come the waves.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 2.79 gigabytes
+PlexMovie.movie_list index # = 652
+
+Name: here we go again.mp4
+Drive: H:
+Dimensions of video file: 708.0 x 476.0
+Resolution of video file: SD
+Size of movie file: 1.49 gigabytes
+PlexMovie.movie_list index # = 653
+
+Name: highlander (1986).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 5.41 gigabytes
+PlexMovie.movie_list index # = 654
+
+Name: hook.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.13 gigabytes
+PlexMovie.movie_list index # = 655
+
+Name: how to lose a guy in 10 days.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.66 gigabytes
+PlexMovie.movie_list index # = 656
+
+Name: hunchback of notre dame.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.74 gigabytes
+PlexMovie.movie_list index # = 657
+
+Name: if i had my way.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.81 gigabytes
+PlexMovie.movie_list index # = 658
+
+Name: in society.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.26 gigabytes
+PlexMovie.movie_list index # = 659
+
+Name: in the mouth of madness.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 4.16 gigabytes
+PlexMovie.movie_list index # = 660
+
+Name: indiana jones and the last crusade.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 6.33 gigabytes
+PlexMovie.movie_list index # = 661
+
+Name: indiana jones and the temple of doom.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 5.2 gigabytes
+PlexMovie.movie_list index # = 662
+
+Name: invasion of the body snatchers (1978).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 6.07 gigabytes
+PlexMovie.movie_list index # = 663
+
+Name: iron man 2.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.37 gigabytes
+PlexMovie.movie_list index # = 664
+
+Name: iron man.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.18 gigabytes
+PlexMovie.movie_list index # = 665
+
+Name: it's a wonderful world.mkv
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.72 gigabytes
+PlexMovie.movie_list index # = 666
+
+Name: jeepers creepers.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.2 gigabytes
+PlexMovie.movie_list index # = 667
+
+Name: journey to the center of the earth (1959).m4v
+Drive: F:
+Dimensions of video file: 718.0 x 366.0
+Resolution of video file: SD
+Size of movie file: 1.86 gigabytes
+PlexMovie.movie_list index # = 668
+
+Name: jumanji welcome to the jungle.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 2.82 gigabytes
+PlexMovie.movie_list index # = 669
+
+Name: jurassic world fallen kingdom.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 2.52 gigabytes
+PlexMovie.movie_list index # = 670
+
+Name: jurassic world.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 960.0
+Resolution of video file: HD
+Size of movie file: 5.02 gigabytes
+PlexMovie.movie_list index # = 671
+
+Name: keep em flying.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.25 gigabytes
+PlexMovie.movie_list index # = 672
+
+Name: killer klowns from outer space.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.83 gigabytes
+PlexMovie.movie_list index # = 673
+
+Name: king kong (1976).m4v
+Drive: F:
+Dimensions of video file: 718.0 x 364.0
+Resolution of video file: SD
+Size of movie file: 3.03 gigabytes
+PlexMovie.movie_list index # = 674
+
+Name: last holiday.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 368.0
+Resolution of video file: SD
+Size of movie file: 1.6 gigabytes
+PlexMovie.movie_list index # = 675
+
+Name: lethal weapon 2.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 1.96 gigabytes
+PlexMovie.movie_list index # = 676
+
+Name: lethal weapon 3.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 796.0
+Resolution of video file: HD
+Size of movie file: 2.39 gigabytes
+PlexMovie.movie_list index # = 677
+
+Name: little shop of horrors.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.71 gigabytes
+PlexMovie.movie_list index # = 678
+
+Name: logans run.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 4.19 gigabytes
+PlexMovie.movie_list index # = 679
+
+Name: lost in alaska.m4v
+Drive: F:
+Dimensions of video file: 716.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.6 gigabytes
+PlexMovie.movie_list index # = 680
+
+Name: madhouse.m4v
+Drive: F:
+Dimensions of video file: 716.0 x 348.0
+Resolution of video file: SD
+Size of movie file: 1.15 gigabytes
+PlexMovie.movie_list index # = 681
+
+Name: magnum force.mp4
+Drive: F:
+Dimensions of video file: 1918.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.51 gigabytes
+PlexMovie.movie_list index # = 682
+
+Name: mamma mia.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.21 gigabytes
+PlexMovie.movie_list index # = 683
+
+Name: mary shelleys frankenstein.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 3.54 gigabytes
+PlexMovie.movie_list index # = 684
+
+Name: miracle mile.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 5.75 gigabytes
+PlexMovie.movie_list index # = 685
+
+Name: monsters inc.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 2.62 gigabytes
+PlexMovie.movie_list index # = 686
+
+Name: mr peabody & sherman.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.28 gigabytes
+PlexMovie.movie_list index # = 687
+
+Name: murder my sweet.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.25 gigabytes
+PlexMovie.movie_list index # = 688
+
+Name: murder over new york.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.89 gigabytes
+PlexMovie.movie_list index # = 689
+
+Name: night at the museum battle for the smithsonian.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.27 gigabytes
+PlexMovie.movie_list index # = 690
+
+Name: north to alaska.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 364.0
+Resolution of video file: SD
+Size of movie file: 1.71 gigabytes
+PlexMovie.movie_list index # = 691
+
+Name: oceans 11 (1960).m4v
+Drive: F:
+Dimensions of video file: 720.0 x 358.0
+Resolution of video file: SD
+Size of movie file: 1.33 gigabytes
+PlexMovie.movie_list index # = 692
+
+Name: once upon a time in the west.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 4.48 gigabytes
+PlexMovie.movie_list index # = 693
+
+Name: one night in the tropics.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.58 gigabytes
+PlexMovie.movie_list index # = 694
+
+Name: pacific heights.m4v
+Drive: H:
+Dimensions of video file: 712.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.32 gigabytes
+PlexMovie.movie_list index # = 695
+
+Name: pardon my sarong.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.26 gigabytes
+PlexMovie.movie_list index # = 696
+
+Name: phibes rises.m4v
+Drive: F:
+Dimensions of video file: 716.0 x 440.0
+Resolution of video file: SD
+Size of movie file: 2.27 gigabytes
+PlexMovie.movie_list index # = 697
+
+Name: pink panther strikes again.m4v
+Drive: H:
+Dimensions of video file: 710.0 x 366.0
+Resolution of video file: SD
+Size of movie file: 1.27 gigabytes
+PlexMovie.movie_list index # = 698
+
+Name: pirates of the carribean at worlds end.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 5.23 gigabytes
+PlexMovie.movie_list index # = 699
+
+Name: pirates of the carribean curse of the black pearl.m4v
+Drive: F:
+Dimensions of video file: 1916.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.88 gigabytes
+PlexMovie.movie_list index # = 700
+
+Name: pirates of the carribean dead mans chest.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 802.0
+Resolution of video file: HD
+Size of movie file: 4.25 gigabytes
+PlexMovie.movie_list index # = 701
+
+Name: pirates of the carribean on stranger tides.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 2.86 gigabytes
+PlexMovie.movie_list index # = 702
+
+Name: planet of the ape (1968).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.33 gigabytes
+PlexMovie.movie_list index # = 703
+
+Name: point Break (1991).m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 3.67 gigabytes
+PlexMovie.movie_list index # = 704
+
+Name: prince of darkness.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 2.95 gigabytes
+PlexMovie.movie_list index # = 705
+
+Name: raiders of the lost ark.mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.34 gigabytes
+PlexMovie.movie_list index # = 706
+
+Name: rambo iii.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 2.7 gigabytes
+PlexMovie.movie_list index # = 707
+
+Name: rambo last blood.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 804.0
+Resolution of video file: HD
+Size of movie file: 1.86 gigabytes
+PlexMovie.movie_list index # = 708
+
+Name: re-animator.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.0 gigabytes
+PlexMovie.movie_list index # = 709
+
+Name: real genius.m4v
+Drive: F:
+Dimensions of video file: 708.0 x 358.0
+Resolution of video file: SD
+Size of movie file: 1.48 gigabytes
+PlexMovie.movie_list index # = 710
+
+Name: rear window.m4v
+Drive: F:
+Dimensions of video file: 1788.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.23 gigabytes
+PlexMovie.movie_list index # = 711
+
+Name: return of the living dead.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 3.0 gigabytes
+PlexMovie.movie_list index # = 712
+
+Name: return to witch mountain.m4v
+Drive: H:
+Dimensions of video file: 708.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 1.77 gigabytes
+PlexMovie.movie_list index # = 713
+
+Name: ride em cowboy.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.71 gigabytes
+PlexMovie.movie_list index # = 714
+
+Name: robin hood men in tights.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 4.59 gigabytes
+PlexMovie.movie_list index # = 715
+
+Name: robocop 2.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 5.76 gigabytes
+PlexMovie.movie_list index # = 716
+
+Name: robocop.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 4.86 gigabytes
+PlexMovie.movie_list index # = 717
+
+Name: rock n roll high school.m4v
+Drive: H:
+Dimensions of video file: 708.0 x 352.0
+Resolution of video file: SD
+Size of movie file: 1.54 gigabytes
+PlexMovie.movie_list index # = 718
+
+Name: saturday the 14th.m4v
+Drive: F:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.18 gigabytes
+PlexMovie.movie_list index # = 719
+
+Name: secret of my success.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 2.27 gigabytes
+PlexMovie.movie_list index # = 720
+
+Name: shrek 3.m4v
+Drive: H:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.59 gigabytes
+PlexMovie.movie_list index # = 721
+
+Name: sink the bismarck.m4v
+Drive: F:
+Dimensions of video file: 714.0 x 364.0
+Resolution of video file: SD
+Size of movie file: 0.78 gigabytes
+PlexMovie.movie_list index # = 722
+
+Name: skyjacked.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 364.0
+Resolution of video file: SD
+Size of movie file: 1.69 gigabytes
+PlexMovie.movie_list index # = 723
+
+Name: snow white & the seven dwarfs (1937).mp4
+Drive: H:
+Dimensions of video file: 1448.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 1.48 gigabytes
+PlexMovie.movie_list index # = 724
+
+Name: something borrowed.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.17 gigabytes
+PlexMovie.movie_list index # = 725
+
+Name: spy kids 3.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.73 gigabytes
+PlexMovie.movie_list index # = 726
+
+Name: spy kids.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.34 gigabytes
+PlexMovie.movie_list index # = 727
+
+Name: sudden impact.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 796.0
+Resolution of video file: HD
+Size of movie file: 2.14 gigabytes
+PlexMovie.movie_list index # = 728
+
+Name: tales of terror.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 366.0
+Resolution of video file: SD
+Size of movie file: 1.46 gigabytes
+PlexMovie.movie_list index # = 729
+
+Name: terminal invasion.m4v
+Drive: F:
+Dimensions of video file: 716.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.33 gigabytes
+PlexMovie.movie_list index # = 730
+
+Name: that darn cat.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 2.32 gigabytes
+PlexMovie.movie_list index # = 731
+
+Name: the abominable dr phibes.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 460.0
+Resolution of video file: SD
+Size of movie file: 1.61 gigabytes
+PlexMovie.movie_list index # = 732
+
+Name: the angry birds movie.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 3.08 gigabytes
+PlexMovie.movie_list index # = 733
+
+Name: the apple dumpling gang.m4v
+Drive: H:
+Dimensions of video file: 702.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.48 gigabytes
+PlexMovie.movie_list index # = 734
+
+Name: the avengers.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.02 gigabytes
+PlexMovie.movie_list index # = 735
+
+Name: the birds.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 5.44 gigabytes
+PlexMovie.movie_list index # = 736
+
+Name: the burbs.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1036.0
+Resolution of video file: HD
+Size of movie file: 5.99 gigabytes
+PlexMovie.movie_list index # = 737
+
+Name: the cell.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 1.94 gigabytes
+PlexMovie.movie_list index # = 738
+
+Name: the chinese cat (1944).m4v
+Drive: F:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.58 gigabytes
+PlexMovie.movie_list index # = 739
+
+Name: the crazies (2010).mp4
+Drive: F:
+Dimensions of video file: 1920.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 1.96 gigabytes
+PlexMovie.movie_list index # = 740
+
+Name: the dirty dozen.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 3.63 gigabytes
+PlexMovie.movie_list index # = 741
+
+Name: the fifth element.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 800.0
+Resolution of video file: HD
+Size of movie file: 3.17 gigabytes
+PlexMovie.movie_list index # = 742
+
+Name: the fly (1986).m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.38 gigabytes
+PlexMovie.movie_list index # = 743
+
+Name: the fugitive.m4v
+Drive: F:
+Dimensions of video file: 1906.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 4.68 gigabytes
+PlexMovie.movie_list index # = 744
+
+Name: the great escape.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 3.27 gigabytes
+PlexMovie.movie_list index # = 745
+
+Name: the grinch.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 462.0
+Resolution of video file: SD
+Size of movie file: 1.54 gigabytes
+PlexMovie.movie_list index # = 746
+
+Name: the jade mask (1944).m4v
+Drive: F:
+Dimensions of video file: 718.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 0.96 gigabytes
+PlexMovie.movie_list index # = 747
+
+Name: the matrix.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 796.0
+Resolution of video file: HD
+Size of movie file: 3.06 gigabytes
+PlexMovie.movie_list index # = 748
+
+Name: the moonspinners.m4v
+Drive: H:
+Dimensions of video file: 706.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.13 gigabytes
+PlexMovie.movie_list index # = 749
+
+Name: the naughty nineties.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.15 gigabytes
+PlexMovie.movie_list index # = 750
+
+Name: the other woman.mp4
+Drive: F:
+Dimensions of video file: 720.0 x 360.0
+Resolution of video file: SD
+Size of movie file: 1.14 gigabytes
+PlexMovie.movie_list index # = 751
+
+Name: the pink panther (1964).m4v
+Drive: H:
+Dimensions of video file: 710.0 x 368.0
+Resolution of video file: SD
+Size of movie file: 1.17 gigabytes
+PlexMovie.movie_list index # = 752
+
+Name: the poseidon adventure.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 816.0
+Resolution of video file: HD
+Size of movie file: 3.78 gigabytes
+PlexMovie.movie_list index # = 753
+
+Name: the revenge of pink panther.m4v
+Drive: H:
+Dimensions of video file: 710.0 x 368.0
+Resolution of video file: SD
+Size of movie file: 1.12 gigabytes
+PlexMovie.movie_list index # = 754
+
+Name: the running man.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 3.16 gigabytes
+PlexMovie.movie_list index # = 755
+
+Name: the secret service (1944).m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.32 gigabytes
+PlexMovie.movie_list index # = 756
+
+Name: the shootist.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.56 gigabytes
+PlexMovie.movie_list index # = 757
+
+Name: the sons of katie elder.m4v
+Drive: F:
+Dimensions of video file: 710.0 x 364.0
+Resolution of video file: SD
+Size of movie file: 1.22 gigabytes
+PlexMovie.movie_list index # = 758
+
+Name: the sound of music.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 872.0
+Resolution of video file: HD
+Size of movie file: 5.46 gigabytes
+PlexMovie.movie_list index # = 759
+
+Name: the thing from another world.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.92 gigabytes
+PlexMovie.movie_list index # = 760
+
+Name: the third man.m4v
+Drive: F:
+Dimensions of video file: 1438.0 x 1080.0
+Resolution of video file: HD
+Size of movie file: 2.56 gigabytes
+PlexMovie.movie_list index # = 761
+
+Name: the time of their lives.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.18 gigabytes
+PlexMovie.movie_list index # = 762
+
+Name: the undefeated.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 366.0
+Resolution of video file: SD
+Size of movie file: 1.55 gigabytes
+PlexMovie.movie_list index # = 763
+
+Name: the vanishing.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 464.0
+Resolution of video file: SD
+Size of movie file: 1.34 gigabytes
+PlexMovie.movie_list index # = 764
+
+Name: the wedding planner.m4v
+Drive: F:
+Dimensions of video file: 716.0 x 370.0
+Resolution of video file: SD
+Size of movie file: 1.04 gigabytes
+PlexMovie.movie_list index # = 765
+
+Name: the wild bunch.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 792.0
+Resolution of video file: HD
+Size of movie file: 3.69 gigabytes
+PlexMovie.movie_list index # = 766
+
+Name: the wistful widow of wagon gap.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.04 gigabytes
+PlexMovie.movie_list index # = 767
+
+Name: the world of abbott & Costello.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 478.0
+Resolution of video file: SD
+Size of movie file: 2.22 gigabytes
+PlexMovie.movie_list index # = 768
+
+Name: theater of blood.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 386.0
+Resolution of video file: SD
+Size of movie file: 1.25 gigabytes
+PlexMovie.movie_list index # = 769
+
+Name: them!.m4v
+Drive: F:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.04 gigabytes
+PlexMovie.movie_list index # = 770
+
+Name: three days of the condor.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 818.0
+Resolution of video file: HD
+Size of movie file: 5.29 gigabytes
+PlexMovie.movie_list index # = 771
+
+Name: to be or not to be.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1038.0
+Resolution of video file: HD
+Size of movie file: 3.21 gigabytes
+PlexMovie.movie_list index # = 772
+
+Name: to have and have not.mp4
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.32 gigabytes
+PlexMovie.movie_list index # = 773
+
+Name: trail of the pink panther.m4v
+Drive: H:
+Dimensions of video file: 706.0 x 364.0
+Resolution of video file: SD
+Size of movie file: 1.0 gigabytes
+PlexMovie.movie_list index # = 774
+
+Name: twister.m4v
+Drive: F:
+Dimensions of video file: 1918.0 x 794.0
+Resolution of video file: HD
+Size of movie file: 2.63 gigabytes
+PlexMovie.movie_list index # = 775
+
+Name: under the rainbow.m4v
+Drive: F:
+Dimensions of video file: 718.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 3.28 gigabytes
+PlexMovie.movie_list index # = 776
+
+Name: unforgiven.m4v
+Drive: F:
+Dimensions of video file: 1914.0 x 812.0
+Resolution of video file: HD
+Size of movie file: 2.09 gigabytes
+PlexMovie.movie_list index # = 777
+
+Name: valentines day.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.23 gigabytes
+PlexMovie.movie_list index # = 778
+
+Name: vertigo.m4v
+Drive: F:
+Dimensions of video file: 1920.0 x 1040.0
+Resolution of video file: HD
+Size of movie file: 2.53 gigabytes
+PlexMovie.movie_list index # = 779
+
+Name: wagon master.m4v
+Drive: F:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.21 gigabytes
+PlexMovie.movie_list index # = 780
+
+Name: waikiki wedding.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 2.6 gigabytes
+PlexMovie.movie_list index # = 781
+
+Name: war of the worlds.m4v
+Drive: F:
+Dimensions of video file: 710.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 1.6 gigabytes
+PlexMovie.movie_list index # = 782
+
+Name: who done it.mp4
+Drive: F:
+Dimensions of video file: 714.0 x 480.0
+Resolution of video file: SD
+Size of movie file: 0.92 gigabytes
+PlexMovie.movie_list index # = 783
+
+Name: zeppelin.m4v
+Drive: H:
+Dimensions of video file: 720.0 x 360.0
+Resolution of video file: SD
+Size of movie file: 1.26 gigabytes
+PlexMovie.movie_list index # = 784
+
