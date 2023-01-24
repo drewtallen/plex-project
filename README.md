@@ -1,3 +1,16 @@
 # plex-project
 ## An early program I wrote as a final project to an Intro to Python class during my first semester. 
 
+### Plex explained
+Plex is a personal media server that can run on computers or NAS devices. The Plex app on your host machine points to folders holding Movies, TV Shows, or Music files amongst other options. Plex then has streaming apps available on many platforms including: Roku, Amazon Firestick, Android TV, and most mobile devices. This allows you to maintain a personal "streaming service" utilizing your own personal media.
+
+### Motivation for this project
+As a user and proponent of Plex, I found my own media collection growing quickly. At the time of writing this program in Fall of 2021, I was using two 8 terabyte hard drives to hold my media files (my family watches a lot of stuff!). One day it dawned on me that if one of my hard drives crashed, I wouldn't know what exactly was stored on that drive. I could have taken screenshots in file explorer, but that would have to be done manually and would be very limited in the information it provided. I decided to pursue creating a program that could provide more detailed information about the contents of my hard drives.
+
+### What this program does
+This program iterates through each hard drive and aggregates information regarding individual video & episode files, as well as cumulative information about each TV show as a whole. It then generates three .txt files containing this information in a readable format. Information gathered for movies includes: the title, video file resolution & definition (ex. 1920x1080, HD), file size, and file location. Information gathered for TV shows includes: file path, video file resolution & definition, total number of seasons, total number of files (equates to episode total), and the total size of the TV show on the drive (in gigabytes). Two of the generated .txt files simply contain the names of every movie and show on a drive at the time of program execution - one file for each drive. A third, more useful file is generated to provide an overview of the status of both drives. This "status" .txt file provides tallies for all movies and complete shows currently on both drives, as well as total number of episodes, and how many movies/shows are in SD & HD. This file is where the detailed information regarding resolution and file sizes are found.
+
+#### -- Text files generated from program execution are included in this repository for demonstration.
+
+### Notes / Reflections
+I wrote this program only a few months after beginning my studies in computer science. Prior to that, I had no experience with programming in any context. I've learned a lot since this was written, but I am proud of what I accomplished. I was able to solve a practical problem and receive an 'A' for my efforts by submitting it as a final project (for an intro class). The code is messy and my understanding of OOP concepts were limited at the time. This program is currently hardcoded for my personal hard drives, so it's not portable. However, I wanted to upload this project for myself and anyone interested in my progress. Time permitting, I'd like to revisit this project and recreate it from the ground up, possibly in Java.
