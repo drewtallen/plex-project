@@ -2644,7 +2644,7 @@ Resolution of video file: HD
 Size of movie file: 2.71 gigabytes
 PlexMovie.movie_list index # = 286
 
-Name: Pokémon Mewtwo Returns (2001).avi
+Name: PokÃ©mon Mewtwo Returns (2001).avi
 Drive: F:
 Dimensions of video file: 720.0 x 416.0
 Resolution of video file: SD
